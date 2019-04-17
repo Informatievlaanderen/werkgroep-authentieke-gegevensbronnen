@@ -1,9 +1,13 @@
 Deze repository is een onderdeel van het project **Vlaamse Authentieke Gegevensbronnen**.
-Meer informatie is terug te vinden op de [https://overheid.vlaanderen.be/stuurorgaan-vlaams-informatie-en-ict-beleid).
+
+Meer informatie is terug te vinden op de [overheid.vlaanderen.be/stuurorgaan-vlaams-informatie-en-ict-beleid](https://overheid.vlaanderen.be/stuurorgaan-vlaams-informatie-en-ict-beleid).
 
 ## Stuurorgaan Vlaams Informatie-en ICT-beleid
+
 Eind 2016 werd het Stuurorgaan Vlaams Informatie- en ICT-beleid opgericht. De bepalingen werden opgenomen in het Bestuursdecreet. De stuurgroep GDI-Vlaanderen, de stuurgroep inzake archivering en het VDI-coördinatiecomité gaan hierin op.
+
 Dit Stuurorgaan is het (nieuwe) coördinatiecomité voor de VDI en kan adviezen aangaande het informatie- en ICT-beleid voorstellen aan de Vlaamse Regering. Die adviezen worden bindend eenmaal de Vlaamse Regering ze heeft goedgekeurd en ze gelden dan zowel binnen de Vlaamse overheid zelf als tussen de Vlaamse overheid en de provinciale en lokale besturen. 
+
 Daarnaast kreeg dit Stuurorgaan de opdracht om de onderlinge afstemming tussen de intra- en interbestuurlijke strategische digitaliseringsprojecten, gebundeld in het programma Vlaanderen Radicaal Digitaal, te regisseren.
 
 
