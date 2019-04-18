@@ -12,7 +12,6 @@ Dit Stuurorgaan is het (nieuwe) coördinatiecomité voor de VDI en kan adviezen 
 
 Daarnaast kreeg dit Stuurorgaan de opdracht om de onderlinge afstemming tussen de intra- en interbestuurlijke strategische digitaliseringsprojecten, gebundeld in het programma Vlaanderen Radicaal Digitaal, te regisseren.
 
-
 ## Vlaamse Authentieke Gegevensbronnen
 
 Een authentieke gegevensbron is de meest volledige, kwalitatief hoogstaande verzameling van gegevens die op elektronische wijze worden bijgehouden. Authentieke gegevensbronnen zijn nuttig of noodzakelijk bij de uitvoering van de taken van algemeen belang waarmee Vlaamse en lokale overheden belast zijn of bij de uitvoering van de verplichtingen die op hen rusten. De voorwaarden om erkend te worden als Vlaamse Authentieke Gegevensbron worden door de Vlaamse Regering bepaald. Ook kan zij kandidaat authentieke gegevensbronnen aanwijzen op voorstel van het stuurorgaan.
