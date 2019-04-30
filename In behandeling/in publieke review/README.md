@@ -1,5 +1,7 @@
 # Bronnen in publieke review
 
+## Publieke review
+
 Bronnen die door hun thematische werkgroep positief geëvalueerd werden en waarvan de evaluatie aan de werkgroep werd voorgesteld zijn klaar om in publieke review te gaan, de bron krijgt de status "kandidaat authentieke gegevensbron".
 
 De publieke review is een korte periode (2 tot 6 weken) waarin (potentiële) afnemers en andere belanghebbenden de gegevensbron en bijhorende documentatie kunnen bekijken en feedback geven. De duurtijd van de publieke review wordt door de thematische werkgroep bepaald en is afhankelijk van de impact op stakeholders, het aantal stakeholders,... De werkgroep bevestigd de duurtijd die door de thematische werkgroep werd voorgesteld of past aan waar nodig.
@@ -9,3 +11,10 @@ Bij aanvang van de publieke reviewperiode worden de stakeholders op de hoogte ge
 In deze map komen de bronnen die in publieke review zijn. Vragen en opmerkingen kunnen hier publiekelijk kenbaar gemaakt worden, andere forumleden of ten minste de voorzitter van de werkgroep reageren op de vragen en opmerkingen.
 
 Na de periode van publieke review worden de opmerkingen en vragen besproken in de werkgroep, de bronhouder moet hierbij aanwezig zijn. Deze werkgroep komt in de vorm van een webcast ook ter beschikking van alle stakeholders.
+
+## Afspraken voor het posten van issues
+
+- je hangt steeds het gepaste label aan het issue dat je post
+- 1 issue kan meerdere labels hebben
+- voor de publieke review hang je aan het issue steeds het label 'publieke review' en het label van de gegevensbron waarover je het issue post
+- issues gepost na de periode van publieke review worden beantwoord, maar hebben geen betrekking meer op het al dan niet succesvol doorlopen van de publieke review van een gegevensbron
