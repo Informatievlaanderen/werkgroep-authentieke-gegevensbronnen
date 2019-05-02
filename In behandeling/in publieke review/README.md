@@ -16,5 +16,6 @@ Na de periode van publieke review worden de opmerkingen en vragen besproken in d
 
 - je hangt steeds het gepaste label aan het issue dat je post
 - 1 issue kan meerdere labels hebben
-- voor de publieke review hang je aan het issue steeds het label 'publieke review' en het label van de gegevensbron waarover je het issue post
+- voor de publieke review in de gewone procedure hang je aan het issue steeds het label 'publieke review' en het label van de betreffende gegevensbron
+- voor de publieke review in de versnelde procedure hang je steeds het label 'publieke review versnelde procedure' en het label van het betreffende gegevensdelingsplatform aan het issue dat je post
 - issues gepost na de periode van publieke review worden beantwoord, maar hebben geen betrekking meer op het al dan niet succesvol doorlopen van de publieke review van een gegevensbron
