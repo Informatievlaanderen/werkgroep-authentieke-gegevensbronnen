@@ -1,5 +1,0 @@
-# Bodemkaart
-
-Op basis van de resultaten van een intensieve bodemkartering gedurende de jaren '50 tot '70 werd de Belgische bodemkaart opgesteld. Deze Belgische bodemkaart steunt op het Belgische bodemclassificatiesysteem. Het is een nationaal systeem dat uitsluitend voor de Belgische bodems werd opgesteld.
-
-Deze dataset is omwille van de visualisatie onderverdeeld in 5 kaartlagen: bodemtypes, substraten, fasen, varianten van het moedermateriaal en de profielontwikkeling. De kaartlaag 'bodemtypes' bevat alle attribuutinfo van de bodemkaart (op te vragen door op het blauwe bodemtype te klikken in de tabel). Waar beschikbaar zijn voor elk bodemtype de algemene kenmerken en foto's van een representatief bodemprofiel en representatieve omgevingen weergegeven. Tenslotte bestaat voor elke locatie de mogelijkheid om de scan van het analoge bodemkaartblad, het toelichtingsboekje en de basiskaarten op schaal 1:5000 op te roepen. U dient in te zoomen tot 1:150.000 om alle detailinfo van de bodemkaart te kunnen raadplegen.
