@@ -1,0 +1,2 @@
+# Adviezen
+Nadat een gegevensbron de procedure volledig heeft doorlopen wordt een advies aan het Stuurorgaan Vlaams Informatie- en ICT-beleid opgesteld. De adviezen die aan het Stuurorgaan Vlaams Informatie- en ICT-beleid worden overgemaakt kunnen in deze map teruggevonden worden.
