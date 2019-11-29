@@ -1,10 +1,10 @@
-# Werkgroep Authentieke Gegevensbronnen
+# Werkgroep_Authentieke_Gegevensbronnen
 
 Deze repository is een onderdeel van het project **Vlaamse Authentieke Gegevensbronnen**.
 
 Meer informatie is terug te vinden op de [overheid.vlaanderen.be/stuurorgaan-vlaams-informatie-en-ict-beleid](https://overheid.vlaanderen.be/stuurorgaan-vlaams-informatie-en-ict-beleid).
 
-## Stuurorgaan Vlaams Informatie-en ICT-beleid
+## Stuurorgaan_Vlaams_Informatie-en_ICT-beleid
 
 Eind 2016 werd het Stuurorgaan Vlaams Informatie- en ICT-beleid opgericht. De bepalingen werden opgenomen in het Bestuursdecreet. De stuurgroep GDI-Vlaanderen, de stuurgroep inzake archivering en het VDI-coördinatiecomité gaan hierin op.
 
@@ -12,7 +12,7 @@ Dit Stuurorgaan is het (nieuwe) coördinatiecomité voor de VDI en kan adviezen 
 
 Daarnaast kreeg dit Stuurorgaan de opdracht om de onderlinge afstemming tussen de intra- en interbestuurlijke strategische digitaliseringsprojecten, gebundeld in het programma Vlaanderen Radicaal Digitaal, te regisseren.
 
-## Vlaamse Authentieke Gegevensbronnen
+## Vlaamse_Authentieke_Gegevensbronnen
 
 Een authentieke gegevensbron is de meest volledige, kwalitatief hoogstaande verzameling van gegevens die op elektronische wijze worden bijgehouden. Authentieke gegevensbronnen zijn nuttig of noodzakelijk bij de uitvoering van de taken van algemeen belang waarmee Vlaamse en lokale overheden belast zijn of bij de uitvoering van de verplichtingen die op hen rusten. De voorwaarden om erkend te worden als Vlaamse Authentieke Gegevensbron worden door de Vlaamse Regering bepaald. Ook kan zij kandidaat authentieke gegevensbronnen aanwijzen op voorstel van het stuurorgaan.
 
@@ -24,7 +24,7 @@ De inwinning van gegevens kan door de bronhouder zelf gebeuren of er kan gewerkt
 
 _(bron: bestuursdecreet van 7 december 2018)_
 
-## Deze repository
+## Deze_repository
 
 Deze repository dient om documentatie met betrekking tot de verschillende Vlaamse Authentieke Gegevensbronnen op te slaan. Dit omvat:
 

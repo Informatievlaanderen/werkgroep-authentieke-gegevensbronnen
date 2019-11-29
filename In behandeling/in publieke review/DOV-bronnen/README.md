@@ -1,4 +1,4 @@
-# Databank Ondergrond Vlaanderen - bronnen
+# Databank_Ondergrond_Vlaanderen-bronnen
 
 Databank Ondergrond Vlaanderen (DOV) is een samenwerkingsverband binnen de Vlaamse Overheid, tussen
 
