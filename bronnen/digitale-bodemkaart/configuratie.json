@@ -1,0 +1,38 @@
+{
+  "naam": "Digitale Bodemkaart",
+  "status": "kandidaat",
+  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "datumStatus": "18/07/2020",
+  "verantwoordelijkeOrganisatie": "Departement Omgeving",
+  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO003323",
+  "contactPersoon" : [
+    {
+      "naam" : "Marleen Van Damme",
+      "email" : "marleen.vandamme@vlaanderen.be"
+    },
+    {
+      "naam" : "Katrien Oorts",
+      "email": "katrien.oorts@vlaanderen.be"
+    }
+  ],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergaveNaam" : "Intentieverklaring Digitale Bodemkaart",
+      "documentNaam" : "20170928 intentieverklaring_werkgroepcharter-bodemkaart.docx"
+    },
+    {
+      "weergaveNaam" : "Erkenningsproces Digitale Bodemkaart v1",
+      "documentNaam" : "20180917 Erkenningsprocedure_Authentieke_Gegevensbronnen_v0.12_bodemkaart.DOCX" 
+    },
+    {
+      "weergaveNaam" : "Erkenningsproces Digitale Bodemkaart v2",
+      "documentNaam": "20190111_Erkenningsprocedure_Authentieke_Gegevensbronnen_v0.12_bodemkaart1.docx"
+    },
+    {
+      "weergaveNaam": "Advies erkenning Digitale Bodemkaart",
+      "documentNaam": "20200211 _02_002_WAG Advies Bodemkaart NDJ-ZVL.docx"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "naam": "Mandatendatabank",
+  "status": "erkend",
+  "statusDetail": "evaluatie-gestart",
+  "datumStatus": "",
+  "verantwoordelijkeOrganisatie": "",
+  "organisatieLink" : "",
+  "contactPersoon" : {
+    "naam" : "",
+    "email" : ""
+  },
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergaveNaam" : "",
+      "documentNaam" : ""
+    }
+  ]
+}

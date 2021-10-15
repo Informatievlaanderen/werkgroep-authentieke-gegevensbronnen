@@ -1,0 +1,28 @@
+{
+  "naam": "Landbouwgebruikspercelen",
+  "status": "kandidaat",
+  "statusDetail": "Vraag controle aan juridische dienst",
+  "datumStatus": "19/08/2021",
+  "verantwoordelijkeOrganisatie": "Departement Landbouw en Visserij",
+  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO000082",
+  "contactPersoon" : {
+    "naam" : "Leen Van Steenkiste",
+    "email" : "leen.vansteenkiste@lv.vlaanderen.be"
+  },
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergaveNaam" : "Erkenningsproces Landbouwgebruikspercelen v1",
+      "documentNaam" : "20210426 - Landbouwgebruikspercelen_nagekeken dept LV_26042021.docx"
+    },
+    {
+      "weergaveNaam" : "Erkenningsproces Landbouwgebruikspercelen v2",
+      "documentNaam" : "20210426 - vraag juridisch advies - Landbouwgebruikspercelen_nagekeken dept LV_26042021.docx" 
+    },
+    {
+      "weergaveNaam" : "Presentatie Landbouwgebruikspercelen",
+      "documentNaam": "Landbouwgebruikspercelen_als_bron.pptx"
+    }
+  ]
+}

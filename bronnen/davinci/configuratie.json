@@ -1,0 +1,30 @@
+{
+  "naam": "DAVINCI",
+  "status": "kandidaat",
+  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "datumStatus": "",
+  "verantwoordelijkeOrganisatie": "AHOVOKS",
+  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO001951",
+  "contactPersoon" : [
+    {
+      "naam": "Luk Verbeke",
+      "email": "luk.verbeke@ond.vlaanderen.be"
+    }
+  ],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergaveNaam" : "Advies erkenning DAVINCI v1",
+      "documentNaam" : "200511 DAVINCI V0.1.docx"
+    },
+    {
+      "weergaveNaam" : "Advies erkenning DAVINCI v2",
+      "documentNaam": "200511 DAVINCI V0.2.docx"
+    },
+    {
+      "weergaveNaam": "Presentatie DAVINCI",
+      "documentNaam": "authentieke_bron_DAVINCI_GHI.pptx"
+    }
+  ]
+}

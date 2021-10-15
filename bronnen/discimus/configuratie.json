@@ -1,0 +1,34 @@
+{
+  "naam": "DISCIMUS",
+  "status": "erkend",
+  "statusDetail": "Erkend door stuurorgaan",
+  "datumStatus": "05/12/2019",
+  "verantwoordelijkeOrganisatie": "AgODi",
+  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO000050",
+  "contactPersoon" : [
+    {
+      "naam": "Elke Defranc",
+      "email": "elke.defranc@ond.vlaanderen.be"
+    }
+  ],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergaveNaam" : "Advies erkenning Discimus",
+      "documentNaam" : "200514 Discimus V0.2.docx"
+    },
+    {
+      "weergaveNaam" : "Erkenningscriteria Discimus",
+      "documentNaam": "omschrijvingen authentieke bron DISICMUS - inschrijvingen.docx"
+    },
+    {
+      "weergaveNaam": "Presentatie Discimus",
+      "documentNaam": "discimus authentieke bron.pptx"
+    },
+    {
+      "weergaveNaam": "Zelfevaluatie Discimus",
+      "documentNaam": "Zelfevaluatie AGODI - DISCIMUS.xlsx"
+    }
+  ]
+}

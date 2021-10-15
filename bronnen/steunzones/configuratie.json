@@ -1,0 +1,34 @@
+{
+  "naam": "Steunzones",
+  "status": "kandidaat",
+  "statusDetail": "Vraag controle aan juridische dienst",
+  "datumStatus": "19/08/2021",
+  "verantwoordelijkeOrganisatie": "VLAIO",
+  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO000039",
+  "contactPersoon" : [
+    {
+      "naam": "Idris Peiren",
+      "email": "idris.peiren@vlaio.be"
+    },
+    {
+      "naam": "Annelies Smeet",
+      "email": "annelies.smeets@vlaio.be"
+    },
+    {
+      "naam": "Steven Vermeir",
+      "email": "steven.vermeir@vlaio.be"
+    }
+  ],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergaveNaam" : "Erkenningsproces v1",
+      "documentNaam" : "20200914 Steunzones.docx"
+    },
+    {
+      "weergaveNaam" : "Erkenningsproces v2",
+      "documentNaam" : "20210325 Steunzones - V2_VLAIO.docx"
+    }
+  ]
+}

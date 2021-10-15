@@ -1,0 +1,1 @@
+Korte beschrijving van Landbouwgebruikspercelen

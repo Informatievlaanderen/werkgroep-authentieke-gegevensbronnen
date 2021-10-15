@@ -1,0 +1,30 @@
+{
+  "naam": "Vlaamse Hydrografische Atlas",
+  "status": "kandidaat",
+  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "datumStatus": "18/07/2020",
+  "verantwoordelijkeOrganisatie": "Vlaamse Milieumaatschappij",
+  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO000092",
+  "contactPersoon" : [
+    {
+      "naam": "Marleen Van Damme",
+      "email": "marleen.vandamme@vlaanderen.be"
+    },
+    {
+      "naam": "Tinneke De Rouck",
+      "email": ""
+    }
+  ],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergaveNaam" : "Advies erkenning VHA",
+      "documentNaam" : "Advies aan het stuurorgaan Vlaams Informatie en ICT beleid_AGB_VHA.docx"
+    },
+    {
+      "weergaveNaam" : "Voorbeeld gebruik VHA",
+      "documentNaam" : "voorbeeld gebruik VHA.pptx"
+    }
+  ]
+}
