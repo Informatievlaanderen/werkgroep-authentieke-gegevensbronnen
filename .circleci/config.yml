@@ -43,6 +43,10 @@ jobs:
           command: |
             rm -rf werkgroep-authentieke-gegevensbronnen
             git clone git@github.com:ddvlanck/werkgroep-authentieke-gegevensbronnen.git
+      - run:
+          name: Checkout website branch
+          workdir: /tmp/werkgroep-authentieke-gegevensbronnen
+          command: |
             git checkout website
       - run:
           name: Clean the generated directory
