@@ -73,7 +73,7 @@ jobs:
             git push --force origin master
 workflows:
   version: 2
-  create_detail_page:
+  agb_registry:
     jobs:
       - checkout
       - expand-links:

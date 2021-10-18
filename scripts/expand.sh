@@ -26,6 +26,6 @@ do
   done
 
   ## Copy updated configuration.json and beschrijving.md to ROOTDIR
-  mkdir "$ROOTDIR/$ROOT_SOURCE_FOLDER/$sourceFolder"
+  mkdir -p "$ROOTDIR/$ROOT_SOURCE_FOLDER/$sourceFolder"
   cp "$ROOT_SOURCE_FOLDER/$sourceFolder/$CONFIGURATION_FILE" "$ROOT_SOURCE_FOLDER/$sourceFolder/$DESCRIPTION_FILE" "$ROOTDIR/$ROOT_SOURCE_FOLDER/$sourceFolder"
 done < "$ROOTDIR/changedSources.txt"
