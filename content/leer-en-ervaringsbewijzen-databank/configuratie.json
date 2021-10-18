@@ -1,0 +1,17 @@
+{
+  "naam": "Databank Leer- en ervaringsbewijzen",
+  "status": "erkend",
+  "statusDetail": "erkend",
+  "datumStatus": "19/08/2021",
+  "verantwoordelijkeOrganisatie": "AHOVOKS",
+  "organisatieLink": "https://data.vlaanderen.be/id/organisatie/OVO001951",
+  "contactPersoon": {},
+  "opmerking": "",
+  "beschrijving": "beschrijving.md",
+  "documenten": [
+    {
+      "weergaveNaam": "Advies erkenning Databank Leer- en Ervaringsbewijzen",
+      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/leer-en-ervaringsbewijzen-databank/documenten/0901355780207da9_adviesLED.pdf"
+    }
+  ]
+}

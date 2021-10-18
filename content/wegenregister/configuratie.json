@@ -1,0 +1,24 @@
+{
+  "naam": "Wegenregister",
+  "status": "kandidaat",
+  "statusDetail": "Gestopt",
+  "datumStatus": "",
+  "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
+  "organisatieLink": "https://data.vlaanderen.be/id/organisatie/OVO002949",
+  "contactPersoon": {
+    "naam": "Christophe Van Loo",
+    "email": "christophe.vanloo@vlaanderen.be"
+  },
+  "opmerking": "Negatief advies omwille van ontbrekend decentraal beheer",
+  "beschrijving": "beschrijving.md",
+  "documenten": [
+    {
+      "weergaveNaam": "Evaluatierapport Wegenregister",
+      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/wegenregister/documenten/Evaluatierapport ter erkenning als authentieke gegevensbron.Wegenregister.docx"
+    },
+    {
+      "weergaveNaam": "Zelfevaluatie Wegenregister",
+      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/wegenregister/documenten/Zelfevaluatiedocument ter erkenning als authentieke gegevensbron_Wegenregister.docx"
+    }
+  ]
+}

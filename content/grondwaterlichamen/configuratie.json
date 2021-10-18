@@ -1,0 +1,22 @@
+{
+  "naam": "Grondwaterlichamen",
+  "status": "kandidaat",
+  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "datumStatus": "01/10/2020",
+  "verantwoordelijkeOrganisatie": "Departement Omgeving",
+  "organisatieLink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
+  "contactPersoon": [
+    {
+      "naam": "Marleen Van Damme",
+      "email": "marleen.vandamme@vlaanderen.be"
+    }
+  ],
+  "opmerking": "",
+  "beschrijving": "beschrijving.md",
+  "documenten": [
+    {
+      "weergaveNaam": "Advies erkenning Grondwaterlichamen",
+      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/grondwaterlichamen/documenten/Grondwaterlichamen - def.docx"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "naam": "Hydrogeologische Homogene Zones",
+  "status": "kandidaat",
+  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "datumStatus": "01/10/2020",
+  "verantwoordelijkeOrganisatie": "Departement Omgeving",
+  "organisatieLink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
+  "contactPersoon": [
+    {
+      "naam": "Marleen Van Damme",
+      "email": "marleen.vandamme@vlaanderen.be"
+    }
+  ],
+  "opmerking": "",
+  "beschrijving": "beschrijving.md",
+  "documenten": [
+    {
+      "weergaveNaam": "Advies erkenning Hydrogeologische Homogene Zones",
+      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/hydrogeologische-homogene-zones/documenten/Hydrogeologisch Homogene Zones - def.docx"
+    }
+  ]
+}
