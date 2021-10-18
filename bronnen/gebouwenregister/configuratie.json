@@ -4,8 +4,8 @@
   "statusDetail": "on-hold",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
-  "organisatieLink" : "https://data.vlaanderen.be/doc/organisatie/OVO002949",
-  "contactPersoon" : {
+  "organisatielink" : "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "contactpersoon" : {
     "naam" : "Christophe Van Loo",
     "email" : "christophe.vanloo@vlaanderen.be"
   },
@@ -13,16 +13,16 @@
   "beschrijving" : "beschrijving.md",
   "documenten" : [
     {
-      "weergaveNaam" : "Intentieverklaring Gebouwenregister",
-      "documentNaam" : "evaluatie_Gebouwenregister_werkgroep.DOCX"
+      "weergavenaam" : "Intentieverklaring Gebouwenregister",
+      "documentnaam" : "evaluatie_Gebouwenregister_werkgroep.DOCX"
     },
     {
-      "weergaveNaam" : "Evaluatie Gebouwenregister Werkgroep",
-      "documentNaam" : "evaluatie_Gebouwenregister_werkgroep.DOCX"
+      "weergavenaam" : "Evaluatie Gebouwenregister Werkgroep",
+      "documentnaam" : "evaluatie_Gebouwenregister_werkgroep.DOCX"
     },
     {
-      "weergaveNaam" : "Zelfevaluatie Gebouwenregister",
-      "documentNaam" : "zelfevaluatie_Gebouwenregister_AIV.DOCX"
+      "weergavenaam" : "Zelfevaluatie Gebouwenregister",
+      "documentnaam" : "zelfevaluatie_Gebouwenregister_AIV.DOCX"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "statusDetail": "evaluatie-gestart",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "",
-  "organisatieLink" : "",
-  "contactPersoon" : {
+  "organisatielink" : "",
+  "contactpersoon" : {
     "naam" : "",
     "email" : ""
   },
@@ -13,8 +13,8 @@
   "beschrijving" : "beschrijving.md",
   "documenten" : [
     {
-      "weergaveNaam" : "",
-      "documentNaam" : ""
+      "weergavenaam" : "",
+      "documentnaam" : ""
     }
   ]
 }

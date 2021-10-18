@@ -4,8 +4,8 @@
   "statusDetail": "Worden herwerkt",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Coördinatiecommissie Integraal Waterbeleid",
-  "organisatieLink" : "https://www.integraalwaterbeleid.be/",
-  "contactPersoon" : {
+  "organisatielink" : "https://www.integraalwaterbeleid.be/",
+  "contactpersoon" : {
     "naam" : "Jeroen Schelkens",
     "email" : ""
   },
@@ -13,8 +13,8 @@
   "beschrijving" : "beschrijving.md",
   "documenten" : [
     {
-      "weergaveNaam" : "Advies aan het Stuurorgaan Vlaams Informatie- en ict-beleid",
-      "documentNaam" : "200915 Overstromingsgevoelige gebieden Watertoets.docx"
+      "weergavenaam" : "Advies aan het Stuurorgaan Vlaams Informatie- en ict-beleid",
+      "documentnaam" : "200915 Overstromingsgevoelige gebieden Watertoets.docx"
     }
   ]
 }

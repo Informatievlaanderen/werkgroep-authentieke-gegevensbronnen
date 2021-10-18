@@ -4,26 +4,26 @@
   "statusDetail": "On-hold",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "",
-  "organisatieLink" : "",
-  "contactPersoon" : {},
+  "organisatielink" : "",
+  "contactpersoon" : {},
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [
     {
-      "weergaveNaam" : "Erkenningsproces VLABEL",
-      "documentNaam" : "200511 VLABEL V0.1.docx"
+      "weergavenaam" : "Erkenningsproces VLABEL",
+      "documentnaam" : "200511 VLABEL V0.1.docx"
     },
     {
-      "weergaveNaam" : "Aanvraag VLABEL",
-      "documentNaam" : "Authentieke_bron_verkoopprijzen_VLABEL.docx"
+      "weergavenaam" : "Aanvraag VLABEL",
+      "documentnaam" : "Authentieke_bron_verkoopprijzen_VLABEL.docx"
     },
     {
-      "weergaveNaam" : "Intentieverklaring VLABEL",
-      "documentNaam" : "intentieverklaring verkoopprijs Vlabel_20190508.docx"
+      "weergavenaam" : "Intentieverklaring VLABEL",
+      "documentnaam" : "intentieverklaring verkoopprijs Vlabel_20190508.docx"
     },
     {
-      "weergaveNaam": "Zelfevaluatie VLABEL",
-      "documentNaam": "zelfevaluatie_verkoopprijs_Vlabel_20190624.docx"
+      "weergavenaam": "Zelfevaluatie VLABEL",
+      "documentnaam": "zelfevaluatie_verkoopprijs_Vlabel_20190624.docx"
     }
   ]
 }

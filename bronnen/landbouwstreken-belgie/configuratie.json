@@ -4,8 +4,8 @@
   "statusDetail": "Vraag controle aan juridische dienst",
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "Departement Landbouw en Visserij",
-  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO000082",
-  "contactPersoon" : {
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000082",
+  "contactpersoon" : {
     "naam" : "Leen Van Steenkiste",
     "email" : "leen.vansteenkiste@lv.vlaanderen.be"
   },
@@ -13,12 +13,12 @@
   "beschrijving" : "beschrijving.md",
   "documenten" : [
     {
-      "weergaveNaam" : "Erkenningsproces Landbouwstreken België v1",
-      "documentNaam" : "20210426 - Landbouwstreken België_nagekeken dept LV_26042021.docx"
+      "weergavenaam" : "Erkenningsproces Landbouwstreken België v1",
+      "documentnaam" : "20210426 - Landbouwstreken België_nagekeken dept LV_26042021.docx"
     },
     {
-      "weergaveNaam" : "Erkenningsproces Landbouwstreken België v2",
-      "documentNaam" : "20210426 - vraag juridisch advies - Landbouwstreken België_nagekeken dept LV_26042021.docx" 
+      "weergavenaam" : "Erkenningsproces Landbouwstreken België v2",
+      "documentnaam" : "20210426 - vraag juridisch advies - Landbouwstreken België_nagekeken dept LV_26042021.docx" 
     }
   ]
 }

@@ -4,8 +4,8 @@
   "statusDetail": "Vraag controle aan juridische dienst",
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "Vlaamse Milieumaatschappij",
-  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO000092",
-  "contactPersoon" : {
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000092",
+  "contactpersoon" : {
     "naam" : "Philip Thomas",
     "email" : "ph.thomas@vlaanderen.be"
   },
@@ -13,16 +13,16 @@
   "beschrijving" : "beschrijving.md",
   "documenten" : [
     {
-      "weergaveNaam" : "Erkenningsproces Grenzen van polders en wateringen v1",
-      "documentNaam" : "20200915 Grenzen van polders en wateringen.docx"
+      "weergavenaam" : "Erkenningsproces Grenzen van polders en wateringen v1",
+      "documentnaam" : "20200915 Grenzen van polders en wateringen.docx"
     },
     {
-      "weergaveNaam" : "Erkenningsproces Grenzen van polders en wateringen v2",
-      "documentNaam" : "20210423 Grenzen van polders en wateringen.docx" 
+      "weergavenaam" : "Erkenningsproces Grenzen van polders en wateringen v2",
+      "documentnaam" : "20210423 Grenzen van polders en wateringen.docx" 
     },
     {
-      "weergaveNaam" : "Presentatie gebruiks Polder en Wateringen",
-      "documentNaam": "voorbeeld gebruik PenW.pptx"
+      "weergavenaam" : "Presentatie gebruiks Polder en Wateringen",
+      "documentnaam": "voorbeeld gebruik PenW.pptx"
     }
   ]
 }

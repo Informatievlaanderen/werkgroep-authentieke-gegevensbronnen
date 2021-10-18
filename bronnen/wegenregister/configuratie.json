@@ -4,8 +4,8 @@
   "statusDetail": "Gestopt",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
-  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO002949",
-  "contactPersoon" : {
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO002949",
+  "contactpersoon" : {
     "naam" : "Christophe Van Loo",
     "email" : "christophe.vanloo@vlaanderen.be"
   },
@@ -13,12 +13,12 @@
   "beschrijving" : "beschrijving.md",
   "documenten" : [
     {
-      "weergaveNaam" : "Evaluatierapport Wegenregister",
-      "documentNaam" : "Evaluatierapport ter erkenning als authentieke gegevensbron.Wegenregister.docx"
+      "weergavenaam" : "Evaluatierapport Wegenregister",
+      "documentnaam" : "Evaluatierapport ter erkenning als authentieke gegevensbron.Wegenregister.docx"
     },
     {
-      "weergaveNaam" : "Zelfevaluatie Wegenregister",
-      "documentNaam" : "Zelfevaluatiedocument ter erkenning als authentieke gegevensbron_Wegenregister.docx"
+      "weergavenaam" : "Zelfevaluatie Wegenregister",
+      "documentnaam" : "Zelfevaluatiedocument ter erkenning als authentieke gegevensbron_Wegenregister.docx"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "statusDetail": "Akkoord voor erkenning door stuurorgaan",
   "datumStatus": "18/07/2020",
   "verantwoordelijkeOrganisatie": "Vlaamse Milieumaatschappij",
-  "organisatieLink" : "https://data.vlaanderen.be/id/organisatie/OVO000092",
-  "contactPersoon" : [
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000092",
+  "contactpersoon" : [
     {
       "naam": "Marleen Van Damme",
       "email": "marleen.vandamme@vlaanderen.be"
@@ -19,12 +19,12 @@
   "beschrijving" : "beschrijving.md",
   "documenten" : [
     {
-      "weergaveNaam" : "Advies erkenning VHA",
-      "documentNaam" : "Advies aan het stuurorgaan Vlaams Informatie en ICT beleid_AGB_VHA.docx"
+      "weergavenaam" : "Advies erkenning VHA",
+      "documentnaam" : "Advies aan het stuurorgaan Vlaams Informatie en ICT beleid_AGB_VHA.docx"
     },
     {
-      "weergaveNaam" : "Voorbeeld gebruik VHA",
-      "documentNaam" : "voorbeeld gebruik VHA.pptx"
+      "weergavenaam" : "Voorbeeld gebruik VHA",
+      "documentnaam" : "voorbeeld gebruik VHA.pptx"
     }
   ]
 }

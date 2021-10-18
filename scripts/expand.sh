@@ -18,10 +18,10 @@ do
      echo ${row} | base64 --decode | jq -r ${1}
     }
 
-    displayName=$(_jq '.weergaveNaam')
-    documentName=$(_jq '.documentNaam')
+    displayName=$(_jq '.weergavenaam')
+    documentName=$(_jq '.documentnaam')
     documentNameUri="$BASE_URI/$ROOT_SOURCE_FOLDER/$sourceFolder/documenten/$documentName"
-    jq --arg name "$documentName" --arg uri "$documentNameUri" '( .documenten[] | select(.documentNaam == $name) ).documentNaam |= $uri' "$configuration" > "$tmpfile"
+    jq --arg name "$documentName" --arg uri "$documentNameUri" '( .documenten[] | select(.documentnaam == $name) ).documentnaam |= $uri' "$configuration" > "$tmpfile"
     mv -- "$tmpfile" "$configuration"
 
   done

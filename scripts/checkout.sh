@@ -15,7 +15,7 @@ function getAllSources() {
 }
 
 # Determine the last changed files
-curl -o "$ROOTDIR/commit.json" "https://raw.githubusercontent.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/master/scripts/commit.json"
+curl -o "$ROOTDIR/commit.json" "https://raw.githubusercontent.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/website/commit.json"
 sleep 5s
 
 jq . "$ROOTDIR/commit.json"
