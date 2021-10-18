@@ -68,7 +68,7 @@ jobs:
             git add .
             git status
             git commit -m "Applying changes from commit ${CIRCLE_SHA1}" --allow-empty
-            git push --force origin master
+            git push --force origin website
       - run:
           name: 'Switch to master branch'
           workdir: /tmp/werkgroep-authentieke-gegevensbronnen
