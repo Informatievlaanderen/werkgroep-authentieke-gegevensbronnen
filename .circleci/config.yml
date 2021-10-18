@@ -60,12 +60,7 @@ jobs:
             mkdir -p /tmp/werkgroep-autentieke-gegevensbronnen/content/
             cp -R bronnen/* /tmp/werkgroep-autentieke-gegevensbronnen/content/
       - run:
-          name: Insert the commit
-          command: |
-            export TAG=`echo "${CIRCLE_SHA1}"`
-            echo "{\"commit\" : \"$TAG\"}" > /tmp/werkgroep-authentieke-gegevensbronnen/scripts/commit.json
-      - run:
-          name: Push results to Github 
+          name: Push results to Github on 'website' branch
           workdir: /tmp/werkgroep-authentieke-gegevensbronnen
           command: |
             git config user.email "oslo@oslo"
@@ -73,6 +68,28 @@ jobs:
             git add .
             git status
             git commit -m "Applying changes from commit ${CIRCLE_SHA1}" --allow-empty
+            export TAG=`echo "${CIRCLE_SHA1}" | cut -c1-15`
+            git tag "${TAG}"
+            git push --force origin master
+      - run:
+          name: 'Switch to master branch'
+          workdir: /tmp/werkgroep-authentieke-gegevensbronnen
+          command: |
+            git checkout master
+      - run:
+          name: Insert the commit on master branch
+          command: |
+            export TAG=`echo "${CIRCLE_SHA1}"`
+            echo "{\"commit\" : \"$TAG\"}" > /tmp/werkgroep-authentieke-gegevensbronnen/scripts/commit.json
+      - run:
+          name: Push result to Github on 'master' branch
+          workdir: /tmp/werkgroep-authentieke-gegevensbronnen
+          command: |
+            git config user.email "oslo@oslo"
+            git config user.name "Circle CI Builder"
+            git add .
+            git status
+            git commit -m "[skip ci] CircleCi updating commit.json" --allow-empty
             export TAG=`echo "${CIRCLE_SHA1}" | cut -c1-15`
             git tag "${TAG}"
             git push --force origin master
