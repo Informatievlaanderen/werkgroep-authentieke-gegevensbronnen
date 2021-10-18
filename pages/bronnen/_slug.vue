@@ -17,8 +17,8 @@
           <vl-column width="3">
             <vl-description-data-item label="Verantwoordelijke organisatie">
               <a
-                v-if="data.verantwoordelijkeOrganisatie && data.organisatieLink"
-                :href="data.organisatieLink"
+                v-if="data.verantwoordelijkeOrganisatie && data.organisatielink"
+                :href="data.organisatielink"
               >
                 {{ data.verantwoordelijkeOrganisatie }}
               </a>
@@ -54,30 +54,39 @@
 
           <vl-column width="6">
             <vl-spotlight title="Documenten">
-              <div
-                v-for="document in data.documenten"
-                :key="document.weergaveNaam"
-              >
-                <a :href="document.documentNaam">
-                  {{ document.weergaveNaam }}
-                </a>
-                <br />
-              </div>
+              <span v-if="data.documenten.length > 0">
+                <div
+                  v-for="document in data.documenten"
+                  :key="document.weergavenaam"
+                >
+                  <a
+                    target="_blank"
+                    :href="document.documentnaam + '?raw=true'"
+                  >
+                    {{ document.weergavenaam }}
+                  </a>
+                  <br />
+                </div>
+              </span>
+              <div v-else>Geen documenten gevonden voor deze bron</div>
             </vl-spotlight>
           </vl-column>
 
           <vl-column width="6">
             <vl-spotlight title="Contactpersoon">
-              <div v-if="data.contactPersoon">
-                <p v-if="data.contactPersoon.naam && data.contactPersoon.email">
-                  {{ data.contactPersoon.naam }} —
-                  <a :href="'mailto:' + data.contactPersoon.email">
-                    {{ data.contactPersoon.email }}
-                  </a>
-                </p>
-                <p v-else>
-                  {{ data.contactPersoon.naam }} — E-mailadres ongekend
-                </p>
+              <div v-if="data.contactpersoon.length > 0">
+                <div
+                  v-for="contact in data.contactpersoon"
+                  :key="contact.email"
+                >
+                  <p v-if="contact.email">
+                    {{ contact.naam }} —
+                    <a :href="'mailto:' + contact.email">
+                      {{ contact.email }}
+                    </a>
+                  </p>
+                  <p v-else>{{ contact.naam }} — E-mailadres ongekend</p>
+                </div>
               </div>
               <div v-else>Contactgegevens niet bekend.</div>
             </vl-spotlight>

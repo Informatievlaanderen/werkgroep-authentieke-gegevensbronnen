@@ -8,7 +8,7 @@
         <tr>
           <th>Naam</th>
           <th>Status</th>
-          <th>Erkend op</th>
+          <th>Datum van status</th>
         </tr>
       </thead>
       <tbody>
@@ -17,12 +17,12 @@
           :key="dataSource.naam"
         >
           <td>
-            <a :href="'/bronnen' + dataSource.dir">
+            <a target="_blank" :href="'/bronnen' + dataSource.dir">
               {{ dataSource.naam }}
             </a>
           </td>
           <td>{{ dataSource.statusDetail }}</td>
-          <td>{{ dataSource.datumVanGoedkeuring }}</td>
+          <td>{{ dataSource.datumStatus || 'Geen datum bekend' }}</td>
         </tr>
       </tbody>
     </vl-data-table>
@@ -33,6 +33,11 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-  props: ['acknowledgedAuthenticSources', 'candidateAuthenticSources']
+  props: {
+    candidateAuthenticSources: {
+      type: Array,
+      default: () => []
+    }
+  }
 })
 </script>

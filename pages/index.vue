@@ -3,7 +3,12 @@
     <ContentHeader />
 
     <vl-layout>
-      <Introduction />
+      <Introduction
+        :acknowledged-authentic-sources-counter="
+          acknowledgedAuthenticSources.length.toString()
+        "
+        :candidate-authentic-sources-counter="candidateAuthenticSources.length.toString()"
+      />
 
       <vl-title tag-name="h2" mod-alt
         >Vlaamse Authentieke Gegevensbronnen

@@ -17,16 +17,19 @@
           :key="dataSource.naam"
         >
           <td>
-            <a :href="'/bronnen' + dataSource.dir">
+            <a target="_blank" :href="'/bronnen' + dataSource.dir">
               {{ dataSource.naam }}
             </a>
           </td>
           <td>
-            <a :href="dataSource.organisatieLink">
+            <p v-if="dataSource.verantwoordelijkeOrganisatie == ''">
+              Organisatie niet gekend
+            </p>
+            <a v-else target="_blank" :href="dataSource.organisatielink">
               {{ dataSource.verantwoordelijkeOrganisatie }}
             </a>
           </td>
-          <td>{{ dataSource.datumStatus }}</td>
+          <td>{{ dataSource.datumStatus || 'Geen datum bekend' }}</td>
         </tr>
       </tbody>
     </vl-data-table>
@@ -37,6 +40,11 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-  props: ['acknowledgedAuthenticSources']
+  props: {
+    acknowledgedAuthenticSources: {
+      type: Array,
+      default: () => []
+    }
+  }
 })
 </script>
