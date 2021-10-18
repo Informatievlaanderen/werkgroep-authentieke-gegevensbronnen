@@ -59,8 +59,8 @@ jobs:
           command: |
             mkdir -p /tmp/werkgroep-authentieke-gegevensbronnen/content/
             cp -R bronnen/* /tmp/werkgroep-authentieke-gegevensbronnen/content/
-       - run:
-          name: Insert the commit on website branch
+      - run:
+          name: Insert the commit
           command: |
             export TAG=`echo "${CIRCLE_SHA1}"`
             echo "{\"commit\" : \"$TAG\"}" > /tmp/werkgroep-authentieke-gegevensbronnen/commit.json
