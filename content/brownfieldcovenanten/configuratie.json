@@ -4,8 +4,8 @@
   "statusDetail": "Vraag controle aan juridische dienst",
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "VLAIO",
-  "organisatieLink": "https://data.vlaanderen.be/id/organisatie/OVO000039",
-  "contactPersoon": [
+  "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO000039",
+  "contactpersoon": [
     {
       "naam": "Idris Peiren",
       "email": "idris.peiren@vlaio.be"
@@ -23,16 +23,16 @@
   "beschrijving": "beschrijving.md",
   "documenten": [
     {
-      "weergaveNaam": "Erkenningsproces Brownfieldcovenanten v1",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/brownfieldcovenanten/documenten/20200914 Brownfieldconvenanten V1.docx"
+      "weergavenaam": "Erkenningsproces Brownfieldcovenanten v1",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/brownfieldcovenanten/documenten/20200914 Brownfieldconvenanten V1.docx"
     },
     {
-      "weergaveNaam": "Erkenningsproces Brownfieldcovenanten v2",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/brownfieldcovenanten/documenten/20210325 Brownfieldconvenanten V2_VLAIO.docx"
+      "weergavenaam": "Erkenningsproces Brownfieldcovenanten v2",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/brownfieldcovenanten/documenten/20210325 Brownfieldconvenanten V2_VLAIO.docx"
     },
     {
-      "weergaveNaam": "Presentatie gebruik Brownfieldcovenanten",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/brownfieldcovenanten/documenten/GIS_laag_BFC_Voorbeeld.pptx"
+      "weergavenaam": "Presentatie gebruik Brownfieldcovenanten",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/brownfieldcovenanten/documenten/GIS_laag_BFC_Voorbeeld.pptx"
     }
   ]
 }

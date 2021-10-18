@@ -4,8 +4,8 @@
   "statusDetail": "Vraag controle aan juridische dienst",
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "Kind en gezin",
-  "organisatieLink": "https://www.kindengezin.be/nl",
-  "contactPersoon": {
+  "organisatielink": "https://www.kindengezin.be/nl",
+  "contactpersoon": {
     "naam": "Johan Buyck",
     "email": "johan.buyck@opgroeien.be"
   },
@@ -13,12 +13,12 @@
   "beschrijving": "beschrijving.md",
   "documenten": [
     {
-      "weergaveNaam": "Erkenningsproces v1",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlaams-kadaster/documenten/20200914 Kind en Gezin - Vlaams Kadaster.docx"
+      "weergavenaam": "Erkenningsproces v1",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlaams-kadaster/documenten/20200914 Kind en Gezin - Vlaams Kadaster.docx"
     },
     {
-      "weergaveNaam": "Erkenningsproces v2",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlaams-kadaster/documenten/20210325 Kind en Gezin - Vlaams Kadaster (002).docx"
+      "weergavenaam": "Erkenningsproces v2",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlaams-kadaster/documenten/20210325 Kind en Gezin - Vlaams Kadaster (002).docx"
     }
   ]
 }

@@ -4,8 +4,8 @@
   "statusDetail": "Akkoord voor erkenning door stuurorgaan",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "AHOVOKS",
-  "organisatieLink": "https://data.vlaanderen.be/id/organisatie/OVO001951",
-  "contactPersoon": [
+  "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO001951",
+  "contactpersoon": [
     {
       "naam": "Luk Verbeke",
       "email": "luk.verbeke@ond.vlaanderen.be"
@@ -15,16 +15,16 @@
   "beschrijving": "beschrijving.md",
   "documenten": [
     {
-      "weergaveNaam": "Advies erkenning DAVINCI v1",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/davinci/documenten/200511 DAVINCI V0.1.docx"
+      "weergavenaam": "Advies erkenning DAVINCI v1",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/davinci/documenten/200511 DAVINCI V0.1.docx"
     },
     {
-      "weergaveNaam": "Advies erkenning DAVINCI v2",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/davinci/documenten/200511 DAVINCI V0.2.docx"
+      "weergavenaam": "Advies erkenning DAVINCI v2",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/davinci/documenten/200511 DAVINCI V0.2.docx"
     },
     {
-      "weergaveNaam": "Presentatie DAVINCI",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/davinci/documenten/authentieke_bron_DAVINCI_GHI.pptx"
+      "weergavenaam": "Presentatie DAVINCI",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/davinci/documenten/authentieke_bron_DAVINCI_GHI.pptx"
     }
   ]
 }

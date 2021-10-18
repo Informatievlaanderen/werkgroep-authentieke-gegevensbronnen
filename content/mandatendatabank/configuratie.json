@@ -4,8 +4,8 @@
   "statusDetail": "evaluatie-gestart",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "",
-  "organisatieLink": "",
-  "contactPersoon": {
+  "organisatielink": "",
+  "contactpersoon": {
     "naam": "",
     "email": ""
   },
@@ -13,8 +13,8 @@
   "beschrijving": "beschrijving.md",
   "documenten": [
     {
-      "weergaveNaam": "",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/mandatendatabank/documenten/"
+      "weergavenaam": "",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/mandatendatabank/documenten/"
     }
   ]
 }

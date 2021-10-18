@@ -4,8 +4,8 @@
   "statusDetail": "Akkoord voor erkenning door stuurorgaan",
   "datumStatus": "01/10/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
-  "organisatieLink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
-  "contactPersoon": [
+  "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
+  "contactpersoon": [
     {
       "naam": "Marleen Van Damme",
       "email": "marleen.vandamme@vlaanderen.be"
@@ -15,8 +15,8 @@
   "beschrijving": "beschrijving.md",
   "documenten": [
     {
-      "weergaveNaam": "Advies erkenning Verziltingskaarten",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/verziltingskaarten/documenten/Verziltingskaarten - def.docx"
+      "weergavenaam": "Advies erkenning Verziltingskaarten",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/verziltingskaarten/documenten/Verziltingskaarten - def.docx"
     }
   ]
 }

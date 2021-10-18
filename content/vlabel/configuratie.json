@@ -4,26 +4,26 @@
   "statusDetail": "On-hold",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "",
-  "organisatieLink": "",
-  "contactPersoon": {},
+  "organisatielink": "",
+  "contactpersoon": {},
   "opmerking": "",
   "beschrijving": "beschrijving.md",
   "documenten": [
     {
-      "weergaveNaam": "Erkenningsproces VLABEL",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/200511 VLABEL V0.1.docx"
+      "weergavenaam": "Erkenningsproces VLABEL",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/200511 VLABEL V0.1.docx"
     },
     {
-      "weergaveNaam": "Aanvraag VLABEL",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/Authentieke_bron_verkoopprijzen_VLABEL.docx"
+      "weergavenaam": "Aanvraag VLABEL",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/Authentieke_bron_verkoopprijzen_VLABEL.docx"
     },
     {
-      "weergaveNaam": "Intentieverklaring VLABEL",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/intentieverklaring verkoopprijs Vlabel_20190508.docx"
+      "weergavenaam": "Intentieverklaring VLABEL",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/intentieverklaring verkoopprijs Vlabel_20190508.docx"
     },
     {
-      "weergaveNaam": "Zelfevaluatie VLABEL",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/zelfevaluatie_verkoopprijs_Vlabel_20190624.docx"
+      "weergavenaam": "Zelfevaluatie VLABEL",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/zelfevaluatie_verkoopprijs_Vlabel_20190624.docx"
     }
   ]
 }

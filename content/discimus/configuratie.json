@@ -4,8 +4,8 @@
   "statusDetail": "Erkend door stuurorgaan",
   "datumStatus": "05/12/2019",
   "verantwoordelijkeOrganisatie": "AgODi",
-  "organisatieLink": "https://data.vlaanderen.be/id/organisatie/OVO000050",
-  "contactPersoon": [
+  "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO000050",
+  "contactpersoon": [
     {
       "naam": "Elke Defranc",
       "email": "elke.defranc@ond.vlaanderen.be"
@@ -15,20 +15,20 @@
   "beschrijving": "beschrijving.md",
   "documenten": [
     {
-      "weergaveNaam": "Advies erkenning Discimus",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/discimus/documenten/200514 Discimus V0.2.docx"
+      "weergavenaam": "Advies erkenning Discimus",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/discimus/documenten/200514 Discimus V0.2.docx"
     },
     {
-      "weergaveNaam": "Erkenningscriteria Discimus",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/discimus/documenten/omschrijvingen authentieke bron DISICMUS - inschrijvingen.docx"
+      "weergavenaam": "Erkenningscriteria Discimus",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/discimus/documenten/omschrijvingen authentieke bron DISICMUS - inschrijvingen.docx"
     },
     {
-      "weergaveNaam": "Presentatie Discimus",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/discimus/documenten/discimus authentieke bron.pptx"
+      "weergavenaam": "Presentatie Discimus",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/discimus/documenten/discimus authentieke bron.pptx"
     },
     {
-      "weergaveNaam": "Zelfevaluatie Discimus",
-      "documentNaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/discimus/documenten/Zelfevaluatie AGODI - DISCIMUS.xlsx"
+      "weergavenaam": "Zelfevaluatie Discimus",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/discimus/documenten/Zelfevaluatie AGODI - DISCIMUS.xlsx"
     }
   ]
 }
