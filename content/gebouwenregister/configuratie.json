@@ -1,0 +1,28 @@
+{
+  "naam": "Gebouwenregister",
+  "status": "kandidaat",
+  "statusDetail": "on-hold",
+  "datumStatus": "19/07/21",
+  "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
+  "organisatieLink" : "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "contactPersoon" : {
+    "naam" : "Christophe Van Loo",
+    "email" : "christophe.vanloo@vlaanderen.be"
+  },
+  "opmerking" : "Negatief advies omwille van ontbrekend decentraal beheer",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergaveNaam" : "Intentieverklaring Gebouwenregister",
+      "documentNaam" : "evaluatie_Gebouwenregister_werkgroep.DOCX"
+    },
+    {
+      "weergaveNaam" : "Evaluatie Gebouwenregister Werkgroep",
+      "documentNaam" : "evaluatie_Gebouwenregister_werkgroep.DOCX"
+    },
+    {
+      "weergaveNaam" : "Zelfevaluatie Gebouwenregister",
+      "documentNaam" : "zelfevaluatie_Gebouwenregister_AIV.DOCX"
+    }
+  ]
+}
