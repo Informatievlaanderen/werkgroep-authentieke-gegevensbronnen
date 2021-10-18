@@ -57,7 +57,8 @@ jobs:
           name: Copy generated assets
           workdir: /tmp/workspace
           command: |
-            cp -R bronnen/* /tmp/werkgroep-autentieke-gegevensbronnen/bronnen/
+            mkdir -p /tmp/werkgroep-autentieke-gegevensbronnen/content/
+            cp -R bronnen/* /tmp/werkgroep-autentieke-gegevensbronnen/content/
       - run:
           name: Insert the commit
           command: |
