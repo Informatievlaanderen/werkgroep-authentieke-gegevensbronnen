@@ -5,11 +5,12 @@ ROOTDIR=$1
 CONFIGURATION_FILE="configuratie.json"
 DESCRIPTION_FILE="beschrijving.md"
 ROOT_SOURCE_FOLDER="bronnen"
-BASE_URI="https://github.com/informatievlaanderen/werkgroep-authentieke-gegevensbronnen/blob/master"
+BASE_URI="https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master"
 
 while IFS= read -r sourceFolder
 do
   configuration="$ROOT_SOURCE_FOLDER/$sourceFolder/$CONFIGURATION_FILE"
+  documents="$(jq .documenten $configuration)"
   tmpfile=$(mktemp)
 
   for row in $(echo "${documents}" | jq -r '.[] | @base64'); do
