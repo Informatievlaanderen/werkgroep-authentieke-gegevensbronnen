@@ -1,1 +1,0 @@
-Korte beschrijving van het gebouwenregister
