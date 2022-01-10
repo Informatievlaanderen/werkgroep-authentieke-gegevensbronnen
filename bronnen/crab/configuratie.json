@@ -13,5 +13,19 @@
   ],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
-  "documenten" : []
+  "documenten" : [],
+  "links": [
+    {
+      "naam" : "Metadatacatalogus",
+      "url" : "https://metadata.vlaanderen.be/metadatacenter/srv/dut/catalog.search;jsessionid=188A76C06F35C524FECE94AA8925BFB8#/metadata/f5418a16-61da-4175-8d86-19d3d6e26a4f"
+    },
+    {
+      "naam" : "Website",
+      "url" : "https://overheid.vlaanderen.be/informatie-vlaanderen/producten-diensten/centraal-referentieadressenbestand-crab"
+    },
+    {
+      "naam" : "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/f5418a16-61da-4175-8d86-19d3d6e26a4f"
+    }
+  ]
 }
