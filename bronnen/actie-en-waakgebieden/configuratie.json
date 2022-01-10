@@ -1,7 +1,7 @@
 {
   "naam": "Actie- en Waakgebieden",
   "status": "kandidaat",
-  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "statusDetail": "Gevalideerd",
   "datumStatus": "01/10/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO003323",
@@ -17,6 +17,16 @@
     {
       "weergavenaam" : "Advies erkenning Actie- en waakgebieden",
       "documentnaam" : "Actie- en waakgebieden - def.docx"
+    }
+  ],
+  "links" : [
+    {
+      "naam" : "Metadatacatalogus",
+      "url" : "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/dd8142d6-ec08-4264-a9c2-f29c2b4ea869"
+    },
+    {
+      "naam" : "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/dd8142d6-ec08-4264-a9c2-f29c2b4ea869"
     }
   ]
 }
