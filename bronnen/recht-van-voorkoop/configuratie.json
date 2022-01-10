@@ -1,0 +1,31 @@
+{
+  "naam": "Recht Van Voorkoop",
+  "status": "erkend",
+  "statusDetail": "Erkend door de Vlaamse regering",
+  "datumStatus": "",
+  "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO002949",
+  "contactpersoon" : [
+    {
+      "naam": "Patty Cant",
+      "email": "patty.cant@vlaanderen.be"
+    }
+  ],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [],
+  "links" : [
+    {
+      "naam" : "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/metadatacenter/srv/dut/catalog.search#/metadata/52ED7CDD-DF78-46AE-912A-E8234E1CFFD1"
+    },
+    {
+      "naam" : "Website",
+      "url" : "https://www.vlaanderen.be/recht-van-voorkoop-in-vlaanderen-rvv"
+    },
+    {
+      "naam" : "Geopunt",
+      "url" : "https://www.geopunt.be/catalogus/applicationfolder/recht%20van%20voorkoop%20-%20themabestand"
+    }
+  ]
+}
