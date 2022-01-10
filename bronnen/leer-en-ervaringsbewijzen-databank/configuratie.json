@@ -13,5 +13,11 @@
       "weergavenaam" : "Advies erkenning Databank Leer- en Ervaringsbewijzen",
       "documentnaam" : "0901355780207da9_adviesLED.pdf"
     }
+  ],
+  "links" : [
+    {
+      "naam" : "Website",
+      "url": "https://leerenervaringsbewijzendatabank.be/"
+    }
   ]
 }
