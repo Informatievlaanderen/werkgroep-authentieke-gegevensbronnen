@@ -26,5 +26,11 @@
       "weergavenaam": "Presentatie DAVINCI",
       "documentnaam": "authentieke_bron_DAVINCI_GHI.pptx"
     }
+  ],
+  "links" : [
+    {
+      "naam" : "Website",
+      "url":  "https://onderwijs.vlaanderen.be/nl/directies-en-administraties/volwassenenonderwijs/cursistenadministratie/davinci"
+    }
   ]
 }
