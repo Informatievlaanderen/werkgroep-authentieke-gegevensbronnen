@@ -10,7 +10,7 @@
         <th>Naam</th>
         <th>Verantwoordelijke organisatie</th>
         <th>Status</th>
-        <th>Erkend op</th>
+        <th>Datum van status</th>
       </tr>
     </thead>
     <tbody>

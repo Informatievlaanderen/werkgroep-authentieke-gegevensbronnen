@@ -38,7 +38,7 @@
         </vl-column>
         <vl-column>
           <vl-infoblock
-            :id="id"
+            id="acknowledged-infoblock"
             mod-type="news"
             title="Erkende Authentieke Gegevensbronnen"
           >
@@ -51,7 +51,7 @@
         </vl-column>
         <vl-column>
           <vl-infoblock
-            :id="id"
+            id="candidate-infoblock"
             mod-type="news"
             title="Kandidaat Authentieke Gegevensbronnen"
           >
@@ -64,7 +64,7 @@
         </vl-column>
         <vl-column>
           <vl-infoblock
-            :id="id"
+            id="in-procedure-infoblock"
             mod-type="news"
             title="Gegevensbronnen in procedure"
           >
