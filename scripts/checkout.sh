@@ -36,11 +36,9 @@ if [ $? -eq 0 ]; then
       then 
         IFS='/' read -r -a parts <<< "$file"
         sourceName=(${parts[1]})
-        echo "Another source was changed: $sourceName"
         changedSources+=($sourceName)
-        echo "Number of changed sources is now ${#changedSources[@]}"
       fi
-    done < "changedFiles.txt"
+    done < "$ROOTDIR/changedFiles.txt"
 
     # Get unique changed sources and write them to text file
     changedSources=($(printf "%s\n" "${changedSources[@]}" | sort -u | tr '\n' ' '))
