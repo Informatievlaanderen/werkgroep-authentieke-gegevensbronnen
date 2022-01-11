@@ -8,20 +8,25 @@
     </vl-region>
     <vl-region>
       <vl-grid mod-stacked>
-        <vl-column width="6">
+        <vl-column width="4">
           <vl-infotext
             class="infotext"
-            href="#"
             :value="acknowledgedAuthenticSourcesCounter"
-            text="Erkende bronnen"
+            text="Erkende authentieke gegevensbronnen"
           />
         </vl-column>
-        <vl-column width="6">
+        <vl-column width="4">
           <vl-infotext
             class="infotext"
-            href="#"
             :value="candidateAuthenticSourcesCounter"
-            text="Bronnen in behandeling"
+            text="Kandidaat authentieke gegevensbronnen"
+          />
+        </vl-column>
+        <vl-column width="4">
+          <vl-infotext
+            class="infotext"
+            :value="inProcedureAuthenticSourcesCounter"
+            text="Gegevensbronnen in procedure"
           />
         </vl-column>
       </vl-grid>
@@ -37,6 +42,10 @@ export default {
       default: '0'
     },
     candidateAuthenticSourcesCounter: {
+      type: String,
+      default: '0'
+    },
+    inProcedureAuthenticSourcesCounter: {
       type: String,
       default: '0'
     }

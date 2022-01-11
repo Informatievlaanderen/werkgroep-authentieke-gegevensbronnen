@@ -1,15 +1,15 @@
 <template>
   <div>
-    <ContentHeader />
-
+    <content-header />
     <vl-layout>
       <vl-region>
-        <vl-button id="prevButton"
-          ><nuxt-link to="/"> Terug naar overzicht</nuxt-link>
-        </vl-button>
-      </vl-region>
-      <vl-region>
         <vl-grid mod-stacked>
+          <vl-column>
+            <vl-button id="prevButton"
+              ><nuxt-link to="/"> Terug naar overzicht</nuxt-link>
+            </vl-button>
+          </vl-column>
+
           <vl-column>
             <vl-title tag-name="h1">{{ data.naam }}</vl-title>
           </vl-column>
@@ -30,7 +30,7 @@
 
           <vl-column width="3">
             <vl-description-data-item label="Status">
-              {{ data.status }}
+              {{ data.status.charAt(0).toUpperCase() + data.status.slice(1) }}
             </vl-description-data-item>
           </vl-column>
 
@@ -88,7 +88,30 @@
                   <p v-else>{{ contact.naam }} — E-mailadres ongekend</p>
                 </div>
               </div>
-              <div v-else>Contactgegevens niet bekend.</div>
+              <div v-else>Contactgegevens niet bekend</div>
+            </vl-spotlight>
+          </vl-column>
+
+          <vl-column width="6">
+            <vl-spotlight title="Links gerelateerd aan bron">
+              <div v-if="data.links.length > 0">
+                <vl-link-list>
+                  <vl-link-list-item v-for="link in data.links" :key="link.url">
+                    <vl-link target="_blank" :href="link.url">{{
+                      link.naam
+                    }}</vl-link>
+                  </vl-link-list-item>
+                </vl-link-list>
+              </div>
+              <div v-else>Geen links gevonden</div>
+            </vl-spotlight>
+          </vl-column>
+          <vl-column width="6">
+            <vl-spotlight title="Opmerkingen">
+              <div v-if="data.opmerking">
+                <p>{{ data.opmerking }}</p>
+              </div>
+              <div v-else>Geen opmerkingen voor deze bron</div>
             </vl-spotlight>
           </vl-column>
         </vl-grid>
@@ -107,6 +130,11 @@ export default {
     return {
       data,
       description
+    }
+  },
+  head() {
+    return {
+      title: 'AGB Register - Bron in detail'
     }
   }
 }
