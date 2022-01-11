@@ -1,7 +1,7 @@
 {
-  "naam": "VLABEL",
-  "status": "kandidaat",
-  "statusDetail": "On-hold",
+  "naam": "VLABEL ZoekEigendomsToestanden-verrijking",
+  "status": "lopend",
+  "statusDetail": "Procedure onderbroken/gepauzeerd",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "",
   "organisatielink": "",
@@ -24,6 +24,16 @@
     {
       "weergavenaam": "Zelfevaluatie VLABEL",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/vlabel/documenten/zelfevaluatie_verkoopprijs_Vlabel_20190624.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "MADGA - Zoek Eigendomstoestanden",
+      "url": "https://overheid.vlaanderen.be/help/magda-onlinemagda-online-pilootdomein-kadaster/zoek-eigendomstoestanden"
+    },
+    {
+      "naam": "VLABEL",
+      "url": "https://www.vlaanderen.be/vlaamse-belastingdienst"
     }
   ]
 }

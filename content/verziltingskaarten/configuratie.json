@@ -1,7 +1,7 @@
 {
   "naam": "Verziltingskaarten",
   "status": "kandidaat",
-  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "statusDetail": "Gevalideerd",
   "datumStatus": "01/10/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
@@ -17,6 +17,20 @@
     {
       "weergavenaam": "Advies erkenning Verziltingskaarten",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/verziltingskaarten/documenten/Verziltingskaarten - def.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/98c92e4f-21ac-4408-8cb5-c5ae3360b08f"
+    },
+    {
+      "naam": "Website",
+      "url": "https://www.dov.vlaanderen.be/index.php/page/verziltingskaart"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/98c92e4f-21ac-4408-8cb5-c5ae3360b08f"
     }
   ]
 }

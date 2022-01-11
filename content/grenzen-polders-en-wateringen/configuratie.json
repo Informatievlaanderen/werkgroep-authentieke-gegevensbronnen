@@ -1,7 +1,7 @@
 {
   "naam": "Grenzen van polders en wateringen",
-  "status": "kandidaat",
-  "statusDetail": "Vraag controle aan juridische dienst",
+  "status": "lopend",
+  "statusDetail": "In behandeling",
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "Vlaamse Milieumaatschappij",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO000092",
@@ -23,6 +23,24 @@
     {
       "weergavenaam": "Presentatie gebruiks Polder en Wateringen",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/grenzen-polders-en-wateringen/documenten/voorbeeld gebruik PenW.pptx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus - Grenzen van polders",
+      "url": "https://metadata.vlaanderen.be/metadatacenter/srv/api/records/25d8dcec-5144-4a78-80df-14afa9953c19"
+    },
+    {
+      "naam": "Metadatacatalogus - Grenzen van wateringen",
+      "url": "https://metadata.vlaanderen.be/metadatacenter/srv/dut/catalog.search#/metadata/4f6a368b-b7f5-4f62-8b6d-a6b6d006b05b"
+    },
+    {
+      "naam": "VVPW",
+      "url": "https://vvpw.be/"
+    },
+    {
+      "naam": "Ondersteunende toezichtfunctie polders en wateringen overgedragen aan VMM",
+      "url": "https://lokaalbestuur.vlaanderen.be/nieuws/ondersteunende-toezichtfunctie-polders-en-wateringen-overgedragen-aan-vmm"
     }
   ]
 }

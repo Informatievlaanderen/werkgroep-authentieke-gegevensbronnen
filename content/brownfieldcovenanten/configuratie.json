@@ -1,7 +1,7 @@
 {
   "naam": "Brownfieldcovenanten",
-  "status": "kandidaat",
-  "statusDetail": "Vraag controle aan juridische dienst",
+  "status": "lopend",
+  "statusDetail": "In behandeling",
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "VLAIO",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO000039",
@@ -33,6 +33,20 @@
     {
       "weergavenaam": "Presentatie gebruik Brownfieldcovenanten",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/brownfieldcovenanten/documenten/GIS_laag_BFC_Voorbeeld.pptx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/649b05ed-ecfb-468f-914d-714f41193ee0"
+    },
+    {
+      "naam": "Website",
+      "url": "https://overheid.vlaanderen.be/informatie-vlaanderen/nieuws/brownfieldconvenanten-toestand-30/06/2021-beschikbaar"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/649b05ed-ecfb-468f-914d-714f41193ee0"
     }
   ]
 }

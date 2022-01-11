@@ -1,7 +1,7 @@
 {
   "naam": "Grondwaterwingebieden en Beschermingszones",
   "status": "kandidaat",
-  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "statusDetail": "Gevalideerd",
   "datumStatus": "01/10/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
@@ -17,6 +17,20 @@
     {
       "weergavenaam": "Advies erkenning Grondwaterwingebieden en Beschermingzones",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/grondwaterwingebieden-en-beschermingszones/documenten/Grondwaterwingebieden en beschermingszones - def.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/a63bb102-b184-44a8-8ade-2c350420374e"
+    },
+    {
+      "naam": "Website",
+      "url": "https://www.dov.vlaanderen.be/index.php/page/waterwingebieden-en-beschermingszones"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/a63bb102-b184-44a8-8ade-2c350420374e"
     }
   ]
 }

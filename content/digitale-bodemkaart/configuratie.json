@@ -1,7 +1,7 @@
 {
   "naam": "Digitale Bodemkaart",
   "status": "kandidaat",
-  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "statusDetail": "Gevalideerd",
   "datumStatus": "18/07/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
@@ -33,6 +33,20 @@
     {
       "weergavenaam": "Advies erkenning Digitale Bodemkaart",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/digitale-bodemkaart/documenten/20200211 _02_002_WAG Advies Bodemkaart NDJ-ZVL.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/a1547a01-b9fc-40fa-a2eb-009a39c02c7b"
+    },
+    {
+      "naam": "Website",
+      "url": "https://www.dov.vlaanderen.be/page/bodemkaarten"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/a1547a01-b9fc-40fa-a2eb-009a39c02c7b"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "naam": "Grondwaterlichamen - Horizonten",
   "status": "kandidaat",
-  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "statusDetail": "Gevalideerd",
   "datumStatus": "01/10/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
@@ -17,6 +17,20 @@
     {
       "weergavenaam": "Advies erkenning Grondwaterlichamen - Horizonten",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/grondwaterlichamen-horizonten/documenten/Grondwaterlichamen - horizonten - def.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/665b2a21-e2b1-41e9-8257-db0de99ab06b"
+    },
+    {
+      "naam": "Website",
+      "url": "https://www.dov.vlaanderen.be/geonetwork/srv/api/records/665b2a21-e2b1-41e9-8257-db0de99ab06b"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/665b2a21-e2b1-41e9-8257-db0de99ab06b"
     }
   ]
 }

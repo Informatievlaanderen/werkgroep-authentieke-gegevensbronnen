@@ -1,7 +1,7 @@
 {
   "naam": "Afgesloten Watervoedende Lagen",
   "status": "kandidaat",
-  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "statusDetail": "Gevalideerd",
   "datumStatus": "01/10/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
@@ -17,6 +17,20 @@
     {
       "weergavenaam": "Advies erkenning Afgesloten watervoedende lagen",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/afgesloten-watervoedende-lagen/documenten/Afgesloten watervoerende lagen - def.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/b9cbff64-e4bb-4c95-9160-723c139a73dd"
+    },
+    {
+      "naam": "Website",
+      "url": "https://www.dov.vlaanderen.be/geonetwork/srv/api/records/b9cbff64-e4bb-4c95-9160-723c139a73dd"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/b9cbff64-e4bb-4c95-9160-723c139a73dd"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "naam": "Steunzones",
-  "status": "kandidaat",
-  "statusDetail": "Vraag controle aan juridische dienst",
+  "naam": "Steunzones VLAIO",
+  "status": "lopend",
+  "statusDetail": "In behandeling",
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "VLAIO",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO000039",
@@ -29,6 +29,20 @@
     {
       "weergavenaam": "Erkenningsproces v2",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/steunzones/documenten/20210325 Steunzones - V2_VLAIO.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/b850e91e-c024-49a6-85e9-fcd006072e38"
+    },
+    {
+      "naam": "Website",
+      "url": "https://www.vlaio.be/nl/andere-doelgroepen/lokale-besturen/lokaal-bedrijfshuisvestingsbeleid-en-advies/data-over-bedrijven"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/b850e91e-c024-49a6-85e9-fcd006072e38"
     }
   ]
 }

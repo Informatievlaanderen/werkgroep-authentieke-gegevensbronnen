@@ -1,1 +1,1 @@
-Korte beschrijving van VLABEL
+De dienst ‘ZoekEigendomstoestanden’ laat toe om voor een INSZ of voor een ondernemingsnummer de eigendomstoestanden terug te vinden. Een eigendomstoestand is de verzameling van alle informatie over de rechthebbenden, de “eigenaars”, en hun rechten op een patrimoniaal perceel gedurende een wel bepaalde periode in de tijd.

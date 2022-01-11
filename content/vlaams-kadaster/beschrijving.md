@@ -1,1 +1,1 @@
-Korte beschrijving van het Vlaams Kadaster
+Het Vlaams Kadaster Groeipakket is sinds 1 januari 2019 de gekwalificeerde bron voor alle gegevens inzake het Groeipakket (= Vlaamse kinderbijslag) en bevat gegevens over  alle 1,5 miljoen kinderen die in Vlaanderen zijn gedomicilieerd en die recht hebben op de drie vormen van ‘toelagen in het kader van het gezinsbeleid’ die deel uitmaken van het Groeipakket. 

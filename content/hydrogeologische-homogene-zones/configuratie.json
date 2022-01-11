@@ -1,7 +1,7 @@
 {
   "naam": "Hydrogeologische Homogene Zones",
   "status": "kandidaat",
-  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "statusDetail": "Gevalideerd",
   "datumStatus": "01/10/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
@@ -17,6 +17,20 @@
     {
       "weergavenaam": "Advies erkenning Hydrogeologische Homogene Zones",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/hydrogeologische-homogene-zones/documenten/Hydrogeologisch Homogene Zones - def.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/fe64bf64-da34-4180-ad62-a490c432a75a"
+    },
+    {
+      "naam": "DOV Vlaandere - Hydrogeologische Homogene Zones",
+      "url": "https://www.dov.vlaanderen.be/geonetwork/srv/api/records/fe64bf64-da34-4180-ad62-a490c432a75a"
+    },
+    {
+      "naam": "Data.europe.eu - Hydrogeologische Homogene Zones",
+      "url": "https://data.europa.eu/data/datasets/https-www-dov-vlaanderen-be-dataset-c37f0a00-3ca5-11e3-aa6e-0800200c9a66?locale=nl"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "naam": "Wegenregister",
-  "status": "kandidaat",
-  "statusDetail": "Gestopt",
+  "status": "lopend",
+  "statusDetail": "Procedure onderbroken/gepauzeerd",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO002949",
@@ -9,7 +9,7 @@
     "naam": "Christophe Van Loo",
     "email": "christophe.vanloo@vlaanderen.be"
   },
-  "opmerking": "Negatief advies omwille van ontbrekend decentraal beheer",
+  "opmerking": "",
   "beschrijving": "beschrijving.md",
   "documenten": [
     {
@@ -19,6 +19,20 @@
     {
       "weergavenaam": "Zelfevaluatie Wegenregister",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/wegenregister/documenten/Zelfevaluatiedocument ter erkenning als authentieke gegevensbron_Wegenregister.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/db0dca59-1838-4a5a-b9bd-9e2b943e6cf7"
+    },
+    {
+      "naam": "Website",
+      "url": "https://overheid.vlaanderen.be/informatie-vlaanderen/producten-diensten/wegenregister"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/db0dca59-1838-4a5a-b9bd-9e2b943e6cf7"
     }
   ]
 }

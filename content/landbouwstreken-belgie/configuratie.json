@@ -1,7 +1,7 @@
 {
   "naam": "Landbouwstreken België",
-  "status": "kandidaat",
-  "statusDetail": "Vraag controle aan juridische dienst",
+  "status": "lopend",
+  "statusDetail": "In behandeling",
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "Departement Landbouw en Visserij",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO000082",
@@ -19,6 +19,20 @@
     {
       "weergavenaam": "Erkenningsproces Landbouwstreken België v2",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/landbouwstreken-belgie/documenten/20210426 - vraag juridisch advies - Landbouwstreken België_nagekeken dept LV_26042021.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/13cc8a4e-7292-4cb8-afc7-6e07d052b01a"
+    },
+    {
+      "naam": "Website",
+      "url": "https://lv.vlaanderen.be/nl/voorlichting-info/feiten-cijfers/landbouwstreken-belgie"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/webservicefolder/0d7f9208-293d-42a7-4d58-3c87-597c-eba8-6fc2eba7"
     }
   ]
 }

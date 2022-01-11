@@ -1,7 +1,7 @@
 {
   "naam": "Overstromingsgevoelige gebieden - Watertoets",
-  "status": "kandidaat",
-  "statusDetail": "Worden herwerkt",
+  "status": "lopend",
+  "statusDetail": "Procedure onderbroken/gepauzeerd",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Coördinatiecommissie Integraal Waterbeleid",
   "organisatielink": "https://www.integraalwaterbeleid.be/",
@@ -15,6 +15,16 @@
     {
       "weergavenaam": "Advies aan het Stuurorgaan Vlaams Informatie- en ict-beleid",
       "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/overstromingsgevoelige-gebieden-watertoets/documenten/200915 Overstromingsgevoelige gebieden Watertoets.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Watertoets",
+      "url": "https://www.waterinfo.be/watertoets"
+    },
+    {
+      "naam": "Kaart van overstromingsgevoelige gebieden",
+      "url": "https://www.vlaanderen.be/natuur-en-milieu/waterbeheer/kaart-van-overstromingsgevoelige-gebieden"
     }
   ]
 }
