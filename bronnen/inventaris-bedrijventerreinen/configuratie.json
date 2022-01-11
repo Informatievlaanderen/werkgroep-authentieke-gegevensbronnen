@@ -1,0 +1,26 @@
+{
+  "naam": "Inventaris Bedrijventerreinen",
+  "status": "erkend",
+  "statusDetail": "Erkend door de Vlaamse regering",
+  "datumStatus": "",
+  "verantwoordelijkeOrganisatie": "VLAIO",
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000039",
+  "contactpersoon" : [],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [],
+  "links": [
+    {
+      "naam" : "Metadatacatalogus",
+      "url" : "https://metadata.vlaanderen.be/metadatacenter/srv/dut/catalog.search#/metadata/c2ad72f2-37f8-41e8-8ae1-5d02f09ffb26"
+    },
+    {
+      "naam" : "Website",
+      "url" : "https://www.vlaio.be/nl/andere-doelgroepen/lokale-besturen/dataset-bedrijventerreinen/wat-is-de-dataset-bedrijventerreinen"
+    },
+    {
+      "naam" : "Geopunt",
+      "url" : "https://www.geopunt.be/catalogus/datasetfolder/6ac0460a-f4bc-465e-b39c-c59ae6995f9b"
+    }
+  ]
+}

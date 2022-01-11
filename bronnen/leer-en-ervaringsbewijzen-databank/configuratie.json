@@ -1,8 +1,8 @@
 {
   "naam": "Databank Leer- en ervaringsbewijzen",
   "status": "erkend",
-  "statusDetail": "erkend",
-  "datumStatus": "19/08/2021",
+  "statusDetail": "Erkend door de Vlaamse regering",
+  "datumStatus": "",
   "verantwoordelijkeOrganisatie": "AHOVOKS",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO001951",
   "contactpersoon" : {},
@@ -12,6 +12,12 @@
     {
       "weergavenaam" : "Advies erkenning Databank Leer- en Ervaringsbewijzen",
       "documentnaam" : "0901355780207da9_adviesLED.pdf"
+    }
+  ],
+  "links" : [
+    {
+      "naam" : "Website",
+      "url": "https://leerenervaringsbewijzendatabank.be/"
     }
   ]
 }

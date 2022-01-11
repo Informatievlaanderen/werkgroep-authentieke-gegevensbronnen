@@ -1,7 +1,7 @@
 {
   "naam": "DAVINCI",
-  "status": "kandidaat",
-  "statusDetail": "Akkoord voor erkenning door stuurorgaan",
+  "status": "lopend",
+  "statusDetail": "Voor te leggen aan juridische dienst",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "AHOVOKS",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO001951",
@@ -25,6 +25,12 @@
     {
       "weergavenaam": "Presentatie DAVINCI",
       "documentnaam": "authentieke_bron_DAVINCI_GHI.pptx"
+    }
+  ],
+  "links" : [
+    {
+      "naam" : "Website",
+      "url":  "https://onderwijs.vlaanderen.be/nl/directies-en-administraties/volwassenenonderwijs/cursistenadministratie/davinci"
     }
   ]
 }

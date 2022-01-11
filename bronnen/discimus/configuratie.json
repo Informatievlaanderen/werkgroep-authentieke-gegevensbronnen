@@ -1,7 +1,7 @@
 {
   "naam": "DISCIMUS",
-  "status": "erkend",
-  "statusDetail": "Erkend door stuurorgaan",
+  "status": "lopend",
+  "statusDetail": "Akkoord voor erkenning door Stuurorgaan",
   "datumStatus": "05/12/2019",
   "verantwoordelijkeOrganisatie": "AgODi",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000050",
@@ -9,6 +9,10 @@
     {
       "naam": "Elke Defranc",
       "email": "elke.defranc@ond.vlaanderen.be"
+    },
+    {
+      "naam" : "Peter Van Poucke",
+      "email": "peter.vanpoucke@ond.vlaanderen.be"
     }
   ],
   "opmerking" : "",
@@ -29,6 +33,12 @@
     {
       "weergavenaam": "Zelfevaluatie Discimus",
       "documentnaam": "Zelfevaluatie AGODI - DISCIMUS.xlsx"
+    }
+  ],
+  "links" : [
+    {
+      "naam" : "Website",
+      "url" : "https://www.agodi.be/discimus"
     }
   ]
 }
