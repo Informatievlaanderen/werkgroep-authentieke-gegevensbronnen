@@ -1,1 +1,3 @@
-Korte beschrijving Hydrogeologische Homogene Zones
+De hydrogeologisch homogene zones (HHZ) zijn zones met vergelijkbare fysische en chemische randvoorwaarden voor de verspreiding en de afbraak van nitraat in het grondwater van de hiermee geassocieerde freatische watervoerende lagen. Er zijn 33 zones gedefinieerd. 
+
+Het model van de HHZ’s is opgesteld voor de bepaling van de kwetsbaarheid van het grondwater tegenover nitraatverontreiniging (in toepassing van de Europese nitraatrichtlijn, 91/676/EEG). Deze kaartlaag wordt ook gebruikt in het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen incl. wijzigingen en addenda’s, meer bepaald de omzetting via de opeenvolgende mestactieprogramma’s (MAP’s).  
