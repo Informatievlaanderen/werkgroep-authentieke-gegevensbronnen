@@ -26,6 +26,7 @@ if [ $? -eq 0 ]; then
   CHANGED_SOURCES_COUNT="$(cat $ROOTDIR/changedFiles.txt | egrep -i "^[\"]?bronnen/*" | wc -l)"
   TOTAL_FILES="$(wc -l < $ROOTDIR/changedFiles.txt)"
 
+  # Other files than the files in SOURCE_FOLDER were changed
   if (( "$CHANGED_SOURCES_COUNT" != "$TOTAL_FILES" )); then
     getAllSources
   else
@@ -35,7 +36,9 @@ if [ $? -eq 0 ]; then
       then 
         IFS='/' read -r -a parts <<< "$file"
         sourceName=(${parts[1]})
+        echo "Another source was changed: $sourceName"
         changedSources+=($sourceName)
+        echo "Number of changed sources is now ${#changedSources[@]}"
       fi
     done < "changedFiles.txt"
 
