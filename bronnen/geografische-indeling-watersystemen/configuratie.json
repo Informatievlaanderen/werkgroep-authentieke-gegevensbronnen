@@ -1,0 +1,27 @@
+{
+  "naam": "Geografische indeling van de watersystemen",
+  "status": "lopend",
+  "statusDetail": "Procedure onderbroken/gepauzeerd",
+  "datumStatus": "",
+  "verantwoordelijkeOrganisatie": "Vlaamse Milieumaatschappij (VMM)",
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000092",
+  "contactpersoon" : [
+    {
+      "naam": "Jeroen Schelkens",
+      "email": ""
+    }
+  ],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [],
+  "links" : [
+    {
+      "naam" : "Metadatacatalogus",
+      "url" : "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/c9f59bd7-f9dc-06ca-3676-eaf0-bc98-221a-8a6bb16a"
+    },
+    {
+      "naam" : "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/webservicefolder/c9f59bd7-f9dc-06ca-3676-eaf0-bc98-221a-8a6bb16a"
+    }
+  ]
+}
