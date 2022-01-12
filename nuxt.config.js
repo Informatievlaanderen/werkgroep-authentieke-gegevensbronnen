@@ -1,7 +1,5 @@
 export default {
-  // Global page headers: https://go.nuxtjs.dev/config-head
-  // FIXME: when using another target, it gives an error
-  target: 'server',
+  target: 'static',
   head: {
     title: 'AGB Register',
     htmlAttrs: {
