@@ -14,3 +14,8 @@ Deze repository dient om documentatie met betrekking tot de verschillende Vlaams
 - de verslagen van de thematische werkgroepen,
 - presentaties en andere relevante documentatie over de verschillende trajecten.
 
+## Wiki
+
+Deze repository heeft ook zijn eigen wiki-pagina waar ondermeer wordt uitgelegd hoe je een nieuwe bron kan publiceren, een bestaande bron kan aanpassen en hoe het alle informatie op GitHub terecht komt op het register voor authentieke gegevensbronnen
+
+→ [Wiki werkgroep authentieke gegevensbronnen](https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/wiki/Welkom!-%F0%9F%91%8B)
