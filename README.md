@@ -4,7 +4,7 @@ Deze repository is een onderdeel van het project **Vlaamse Authentieke Gegevensb
 
 Meer informatie is terug te vinden op de [overheid.vlaanderen.be/stuurorgaan-vlaams-informatie-en-ict-beleid](https://overheid.vlaanderen.be/stuurorgaan-vlaams-informatie-en-ict-beleid).
 
-## Een bron toevoegen aan het register
+## Wat kan ik terugvinden in deze repository?
 
 Deze repository dient om documentatie met betrekking tot de verschillende Vlaamse Authentieke Gegevensbronnen op te slaan. Dit omvat:
 - **configuratie die nodig is om bron zichtbaar te maken op het register voor authentieke gegevensbronnen.**
