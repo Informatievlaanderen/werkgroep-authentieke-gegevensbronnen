@@ -42,7 +42,7 @@ jobs:
           workdir: /tmp
           command: |
             rm -rf werkgroep-authentieke-gegevensbronnen
-            git clone git@github.com:ddvlanck/werkgroep-authentieke-gegevensbronnen.git
+            git clone git@github.com:informatievlaanderen/werkgroep-authentieke-gegevensbronnen.git
       - run:
           name: Checkout website branch
           workdir: /tmp/werkgroep-authentieke-gegevensbronnen
