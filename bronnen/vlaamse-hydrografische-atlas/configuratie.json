@@ -1,0 +1,44 @@
+{
+  "naam": "Vlaamse Hydrografische Atlas",
+  "status": "kandidaat",
+  "statusDetail": "Gevalideerd",
+  "datumStatus": "18/07/2020",
+  "verantwoordelijkeOrganisatie": "Vlaamse Milieumaatschappij",
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000092",
+  "contactpersoon" : [
+    {
+      "naam": "Marleen Van Damme",
+      "email": "marleen.vandamme@vlaanderen.be"
+    },
+    {
+      "naam": "Tinneke De Rouck",
+      "email": ""
+    }
+  ],
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergavenaam" : "Advies erkenning VHA",
+      "documentnaam" : "Advies aan het stuurorgaan Vlaams Informatie en ICT beleid_AGB_VHA.docx"
+    },
+    {
+      "weergavenaam" : "Voorbeeld gebruik VHA",
+      "documentnaam" : "voorbeeld gebruik VHA.pptx"
+    }
+  ],
+  "links" : [
+    {
+      "naam" : "Metadatacatalogus",
+      "url" : "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/4dcdc3f3-8b3f-4c04-8058-bd5146241a76"
+    },
+    {
+      "naam" : "Website",
+      "url" : "https://www.vmm.be/data/vlaamse-hydrografische-atlas"
+    },
+    {
+      "naam" : "Geopunt",
+      "url" : "https://www.geopunt.be/catalogus/datasetfolder/4dcdc3f3-8b3f-4c04-8058-bd5146241a76"
+    }
+  ]
+}

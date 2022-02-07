@@ -1,0 +1,42 @@
+{
+  "naam": "Landbouwgebruikspercelen",
+  "status": "lopend",
+  "statusDetail": "In behandeling",
+  "datumStatus": "19/08/2021",
+  "verantwoordelijkeOrganisatie": "Departement Landbouw en Visserij",
+  "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000082",
+  "contactpersoon" : {
+    "naam" : "Leen Van Steenkiste",
+    "email" : "leen.vansteenkiste@lv.vlaanderen.be"
+  },
+  "opmerking" : "",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergavenaam" : "Erkenningsproces Landbouwgebruikspercelen v1",
+      "documentnaam" : "20210426 - Landbouwgebruikspercelen_nagekeken dept LV_26042021.docx"
+    },
+    {
+      "weergavenaam" : "Erkenningsproces Landbouwgebruikspercelen v2",
+      "documentnaam" : "20210426 - vraag juridisch advies - Landbouwgebruikspercelen_nagekeken dept LV_26042021.docx" 
+    },
+    {
+      "weergavenaam" : "Presentatie Landbouwgebruikspercelen",
+      "documentnaam": "Landbouwgebruikspercelen_als_bron.pptx"
+    }
+  ],
+  "links" : [
+    {
+      "naam" : "Metadatacatalogus",
+      "url" : "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/47c5540f-bf7c-45fc-9a74-8e60547cde82"
+    },
+    {
+      "naam" : "Website",
+      "url" : "https://lv.vlaanderen.be/nl/home/over-ons/departement-landbouw-en-visserij/gegevensuitwisseling/landbouwgebruikspercelen-ter"
+    },
+    {
+      "naam" : "Geopunt",
+      "url" : "https://www.geopunt.be/catalogus/datasetfolder/47c5540f-bf7c-45fc-9a74-8e60547cde82"
+    }
+  ]
+}

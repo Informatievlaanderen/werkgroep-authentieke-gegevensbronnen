@@ -1,0 +1,42 @@
+{
+  "naam": "Gebouwenregister",
+  "status": "lopend",
+  "statusDetail": "Procedure onderbroken/gepauzeerd",
+  "datumStatus": "27-11-2018",
+  "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
+  "organisatielink" : "https://data.vlaanderen.be/doc/organisatie/OVO002949",
+  "contactpersoon" : {
+    "naam" : "Christophe Van Loo",
+    "email" : "christophe.vanloo@vlaanderen.be"
+  },
+  "opmerking" : "Negatief advies omwille van ontbrekend decentraal beheer",
+  "beschrijving" : "beschrijving.md",
+  "documenten" : [
+    {
+      "weergavenaam" : "Intentieverklaring Gebouwenregister",
+      "documentnaam" : "evaluatie_Gebouwenregister_werkgroep.DOCX"
+    },
+    {
+      "weergavenaam" : "Evaluatie Gebouwenregister Werkgroep",
+      "documentnaam" : "evaluatie_Gebouwenregister_werkgroep.DOCX"
+    },
+    {
+      "weergavenaam" : "Zelfevaluatie Gebouwenregister",
+      "documentnaam" : "zelfevaluatie_Gebouwenregister_AIV.DOCX"
+    }
+  ],
+  "links" : [
+    {
+      "naam" : "Metadatacatalogus",
+      "url" : "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/7bd48678-7c0b-4230-b734-cb5638c66096"
+    },
+    {
+      "naam" : "Website",
+      "url" : "https://overheid.vlaanderen.be/producten-diensten/gebouwen-adressenregister"
+    },
+    {
+      "naam" : "Geopunt",
+      "url" : "https://www.geopunt.be/catalogus/datasetfolder/7bd48678-7c0b-4230-b734-cb5638c66096"
+    }
+  ]
+}
