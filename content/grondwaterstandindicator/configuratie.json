@@ -1,0 +1,36 @@
+{
+  "naam": "Grondwaterstandindicator",
+  "status": "kandidaat",
+  "statusDetail": "Gevalideerd",
+  "datumStatus": "01/10/2020",
+  "verantwoordelijkeOrganisatie": "Departement Omgeving",
+  "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO003323",
+  "contactpersoon": [
+    {
+      "naam": "Marleen Van Damme",
+      "email": "marleen.vandamme@vlaanderen.be"
+    }
+  ],
+  "opmerking": "",
+  "beschrijving": "beschrijving.md",
+  "documenten": [
+    {
+      "weergavenaam": "Advies erkenning Grondwaterstandindicator",
+      "documentnaam": "https://github.com/ddvlanck/werkgroep-authentieke-gegevensbronnen/blob/master/bronnen/grondwaterstandindicator/documenten/Grondwaterstandindicator - def.docx"
+    }
+  ],
+  "links": [
+    {
+      "naam": "Metadatacatalogus",
+      "url": "https://metadata.vlaanderen.be/srv/dut/catalog.search#/metadata/a7a0a581-2e7d-4aaf-92cb-1b054dc646c1"
+    },
+    {
+      "naam": "Website",
+      "url": "https://www.dov.vlaanderen.be/page/actuele-grondwaterstandindicator"
+    },
+    {
+      "naam": "Geopunt",
+      "url": "https://www.geopunt.be/catalogus/datasetfolder/a7a0a581-2e7d-4aaf-92cb-1b054dc646c1"
+    }
+  ]
+}
