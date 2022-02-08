@@ -17,7 +17,8 @@ jobs:
           name: Installing the Nuxt service to be able to build our project
           command: |
             sudo npm install -g nuxt
-      - run: npm run build  # TODO: check if we should use this command or npm run generate
+      - run: npm run build
+      - run: npm run generate
       - persist_to_workspace:
           root: ./
           paths:
