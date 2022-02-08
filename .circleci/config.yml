@@ -1,0 +1,60 @@
+version: 2.1
+jobs:
+  dist-build:
+    parameters:
+      npm_token:
+        type: string
+    docker:
+      - image: circleci/node:14 #fix version of node, otherwise sass and node-sass will fail at different locations
+    steps:
+      - checkout
+      - run:
+          name: Create .npmrc file with NPM token to be able to build because we use private NPM packages
+          command: |
+            echo "//registry.npmjs.org/:_authToken=<< parameters.npm_token >>" > .npmrc
+      - run: npm install
+      - run:
+          name: Installing the Nuxt service to be able to build our project
+          command: |
+            sudo npm install -g nuxt
+      - run: npm run build  # TODO: check if we should use this command or npm run generate
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - dist
+  upload:
+    parameters:
+      sas_token:
+        type: string
+      url:
+        type: string
+    docker:
+      - image: circleci/python
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ./
+      - run: cd $PWD/dist; bash ../scripts/azure.sh << parameters.sas_token >> <<parameters.url >>
+workflows:
+  version: 2
+  publish-updated-content:
+    jobs:
+      - dist-build:
+          npm_token: ${NPM_TOKEN}
+      - upload:
+          name: upload-test
+          requires:
+            - dist-build
+          sas_token: ${SAS_TOKEN_TEST}
+          url: ${AZURE_TEST_URL}
+      - hold:
+          type: approval # Manual approval button in the UI
+          requires:
+            - upload-test
+      - upload:
+          name: upload-prod
+          requires:
+            - hold
+            - dist-build
+          sas_token: ${SAS_TOKEN_PROD}
+          url: ${AZURE_PROD_URL}
