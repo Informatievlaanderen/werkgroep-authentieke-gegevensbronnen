@@ -16,9 +16,9 @@
     <tbody>
       <tr v-for="dataSource in sources" :key="dataSource.naam">
         <td>
-          <a :href="'/authentieke_gegevensbronnen/bronnen' + dataSource.dir">
+          <nuxt-link :to="'/bronnen' + dataSource.dir">
             {{ dataSource.naam }}
-          </a>
+          </nuxt-link>
         </td>
         <td>
           <p v-if="dataSource.verantwoordelijkeOrganisatie == ''">
