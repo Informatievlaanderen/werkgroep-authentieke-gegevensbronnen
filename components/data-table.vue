@@ -16,7 +16,7 @@
     <tbody>
       <tr v-for="dataSource in sources" :key="dataSource.naam">
         <td>
-          <a :href="'/bronnen' + dataSource.dir">
+          <a :href="'/authentieke_gegevensbronnen/bronnen' + dataSource.dir">
             {{ dataSource.naam }}
           </a>
         </td>
