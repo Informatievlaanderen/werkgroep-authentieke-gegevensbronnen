@@ -1,7 +1,7 @@
 {
   "naam": "Wegenregister",
   "status": "lopend",
-  "statusDetail": "Procedure onderbroken/gepauzeerd",
+  "statusDetail": "Procedure gepauzeerd",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO002949",
