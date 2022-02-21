@@ -2,8 +2,8 @@
   <div>
     <vl-region>
       <vl-introduction>
-        Dit register geeft een overzicht van alle erkende en lopende trajecten
-        van Vlaamse Authentieke Gegevensbronnen.
+        Dit register geeft een overzicht van alle erkende Vlaamse Authentieke
+        gegevensbronnen en lopende erkenningstrajecten.
       </vl-introduction>
     </vl-region>
     <vl-region>
