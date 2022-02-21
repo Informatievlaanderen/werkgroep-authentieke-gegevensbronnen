@@ -5,10 +5,7 @@
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "Departement Landbouw en Visserij",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000082",
-  "contactpersoon" : {
-    "naam" : "Leen Van Steenkiste",
-    "email" : "leen.vansteenkiste@lv.vlaanderen.be"
-  },
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [

@@ -5,10 +5,7 @@
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "Kind en gezin",
   "organisatielink" : "https://www.kindengezin.be/nl",
-  "contactpersoon" : {
-    "naam" : "Johan Buyck",
-    "email" : "johan.buyck@opgroeien.be"
-  },
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [

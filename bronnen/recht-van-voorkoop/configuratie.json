@@ -5,12 +5,7 @@
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO002949",
-  "contactpersoon" : [
-    {
-      "naam": "Patty Cant",
-      "email": "patty.cant@vlaanderen.be"
-    }
-  ],
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [],

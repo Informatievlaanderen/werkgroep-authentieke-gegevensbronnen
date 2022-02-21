@@ -5,12 +5,7 @@
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Vlaamse Milieumaatschappij (VMM)",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000092",
-  "contactpersoon" : [
-    {
-      "naam": "Jeroen Schelkens",
-      "email": ""
-    }
-  ],
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [],

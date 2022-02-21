@@ -5,12 +5,7 @@
   "datumStatus": "01/10/2020",
   "verantwoordelijkeOrganisatie": "Departement Omgeving",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO003323",
-  "contactpersoon" : [
-    {
-      "naam": "Marleen Van Damme",
-      "email": "marleen.vandamme@vlaanderen.be"
-    }
-  ],
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [

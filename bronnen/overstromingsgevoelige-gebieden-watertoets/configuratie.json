@@ -5,10 +5,7 @@
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Coördinatiecommissie Integraal Waterbeleid",
   "organisatielink" : "https://www.integraalwaterbeleid.be/",
-  "contactpersoon" : {
-    "naam" : "Jeroen Schelkens",
-    "email" : ""
-  },
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [

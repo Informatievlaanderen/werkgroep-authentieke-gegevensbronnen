@@ -5,12 +5,7 @@
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
   "organisatielink" : "https://data.vlaanderen.be/doc/organisatie/OVO002949",
-  "contactpersoon" : [
-    {
-      "naam": "Christophe Van Loo",
-      "email": "christophe.vanloo@vlaanderen.be"
-    }
-  ],
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [],
