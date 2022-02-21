@@ -20,6 +20,7 @@
     "@govflanders/vl-ui-drawer": "^5.0.1",
     "@govflanders/vl-ui-dynamic-drawer": "^5.0.1",
     "@govflanders/vl-ui-icon": "^4.0.0",
+    "@govflanders/vl-ui-icon-list": "^11.0.4",
     "@govflanders/vl-ui-infoblock": "^5.0.0",
     "@govflanders/vl-ui-infotext": "^5.0.0",
     "@govflanders/vl-ui-input-field": "^10.0.1",
