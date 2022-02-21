@@ -1,11 +1,11 @@
 {
   "naam": "VLABEL ZoekEigendomsToestanden-verrijking",
   "status": "lopend",
-  "statusDetail": "Procedure onderbroken/gepauzeerd",
+  "statusDetail": "Procedure gepauzeerd",
   "datumStatus": "",
   "verantwoordelijkeOrganisatie": "",
   "organisatielink" : "",
-  "contactpersoon" : {},
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [

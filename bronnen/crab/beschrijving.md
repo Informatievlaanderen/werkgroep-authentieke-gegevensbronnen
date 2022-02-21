@@ -11,3 +11,7 @@ De straatnamen in het CRAB krijgen een unieke code, de CRAB-straatcode. Naast de
  
 Het CRAB wordt opgenomen in het stelsel van Vlaamse Basisregisters. In dat kader zal het CRAB evolueren naar het Adressenregister. 
 Dat houdt een aanpassing van het datamodel in, en de bouw van nieuwe services. 
+
+<br>
+
+Besluit van de Vlaamse Regering van 25 maart 2011 houdende de uitvoering van het decreet van 8 mei 2009 betreffende het Centraal Referentieadressenbestand (inwerkingtreding 01/06/2011

@@ -2,15 +2,10 @@
   "naam": "Basiskaart Vlaanderen",
   "status": "erkend",
   "statusDetail": "Erkend door de Vlaamse regering",
-  "datumStatus": "",
+  "datumStatus": "Besluit VR 02/10/2015 Inwerkingtreding: 04/12/2015",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO002949",
-  "contactpersoon" : [
-    {
-      "naam": "Liesbet De Wolf",
-      "email": "liesbet.dewolf@vlaanderen.be"
-    }
-  ],
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [],

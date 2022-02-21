@@ -10,3 +10,7 @@ zoals bedoeld in het decreet van 25 mei 2007 houdende de harmonisering van de pr
 beheerd, bijgehouden en bekendgemaakt door het Agentschap voor Geografische Informatie Vlaanderen. Het bestand bestaat uit RVV-records aangeleverd door 
 begunstigden van Vlaamse voorkooprechten. Het bevat perceelgewijs welk(e) voorkooprecht(en) voor (een) bepaalde begunstige(n) gedurende een bepaalde periode 
 op een onroerend goed rust(en).
+
+<br/>
+
+Besluit van de Vlaamse Regering van 13 juli 2012 tot vaststelling van de datum van inwerkingtreding van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten en houdende de erkenning van het geografisch themabestand 'Vlaamse voorkooprechten' als authentieke geografische gegevensbron (inwerkingtreding 20/08/2012)

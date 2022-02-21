@@ -5,16 +5,7 @@
   "datumStatus": "05/12/2019",
   "verantwoordelijkeOrganisatie": "AgODi",
   "organisatielink" : "https://data.vlaanderen.be/id/organisatie/OVO000050",
-  "contactpersoon" : [
-    {
-      "naam": "Elke Defranc",
-      "email": "elke.defranc@ond.vlaanderen.be"
-    },
-    {
-      "naam" : "Peter Van Poucke",
-      "email": "peter.vanpoucke@ond.vlaanderen.be"
-    }
-  ],
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [
