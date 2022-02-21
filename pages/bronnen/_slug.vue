@@ -52,7 +52,7 @@
             </vl-introduction>
           </vl-column>
 
-          <vl-column width="6">
+          <vl-column v-if="data.status !== 'lopend'" width="6">
             <vl-spotlight title="Documenten">
               <span v-if="data.documenten.length > 0">
                 <div
