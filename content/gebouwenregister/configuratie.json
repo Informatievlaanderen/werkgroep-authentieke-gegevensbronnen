@@ -1,14 +1,11 @@
 {
   "naam": "Gebouwenregister",
   "status": "lopend",
-  "statusDetail": "Procedure onderbroken/gepauzeerd",
+  "statusDetail": "Procedure gepauzeerd",
   "datumStatus": "27-11-2018",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
   "organisatielink": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
-  "contactpersoon": {
-    "naam": "Christophe Van Loo",
-    "email": "christophe.vanloo@vlaanderen.be"
-  },
+  "contactpersoon": [],
   "opmerking": "Negatief advies omwille van ontbrekend decentraal beheer",
   "beschrijving": "beschrijving.md",
   "documenten": [

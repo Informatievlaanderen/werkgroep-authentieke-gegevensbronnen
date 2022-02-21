@@ -13,3 +13,7 @@ Beheerde bedrijvenzone: Een (deel van) een bedrijventerrein waarop een vorm van 
 Planningszone met economische bestemming (bedrijventerrein in planning): overzicht van toekomstige economische zones of omvorming van bestaande zones 
 naar een niet-economische bestemming uit ontwerp-(her)bestemmingsplannen die een openbaar karakter hebben. Het zijn plannen in de fase waar de datum van de 
 plenaire vergadering gekend is of waarvan de plenaire vergadering reeds heeft plaatsgevonden. 
+
+<br/>
+
+Besluit van de Vlaamse Regering van 24 april 2015 houdende de erkenning van de inventarisatie van de bedrijventerreinen op perceelsniveau in het Vlaamse Gewest als authentieke geografische gegevensbron (inwerkingtreding: 04/09/2015)

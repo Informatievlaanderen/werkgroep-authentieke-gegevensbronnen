@@ -5,20 +5,7 @@
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "VLAIO",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO000039",
-  "contactpersoon": [
-    {
-      "naam": "Idris Peiren",
-      "email": "idris.peiren@vlaio.be"
-    },
-    {
-      "naam": "Annelies Smeet",
-      "email": "annelies.smeets@vlaio.be"
-    },
-    {
-      "naam": "Steven Vermeir",
-      "email": "steven.vermeir@vlaio.be"
-    }
-  ],
+  "contactpersoon": [],
   "opmerking": "",
   "beschrijving": "beschrijving.md",
   "documenten": [

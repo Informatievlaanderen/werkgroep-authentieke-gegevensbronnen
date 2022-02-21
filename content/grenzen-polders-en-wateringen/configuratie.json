@@ -5,10 +5,7 @@
   "datumStatus": "19/08/2021",
   "verantwoordelijkeOrganisatie": "Vlaamse Milieumaatschappij",
   "organisatielink": "https://data.vlaanderen.be/id/organisatie/OVO000092",
-  "contactpersoon": {
-    "naam": "Philip Thomas",
-    "email": "ph.thomas@vlaanderen.be"
-  },
+  "contactpersoon": [],
   "opmerking": "",
   "beschrijving": "beschrijving.md",
   "documenten": [

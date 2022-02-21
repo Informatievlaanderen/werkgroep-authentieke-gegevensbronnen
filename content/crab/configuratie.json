@@ -2,15 +2,10 @@
   "naam": "CRAB",
   "status": "erkend",
   "statusDetail": "Erkend door de Vlaamse regering",
-  "datumStatus": "",
+  "datumStatus": "Besluit VR 25/03/2011 Inwerkingtreding: 01/06/2011",
   "verantwoordelijkeOrganisatie": "Digitaal Vlaanderen",
   "organisatielink" : "https://data.vlaanderen.be/doc/organisatie/OVO002949",
-  "contactpersoon" : [
-    {
-      "naam": "Christophe Van Loo",
-      "email": "christophe.vanloo@vlaanderen.be"
-    }
-  ],
+  "contactpersoon" : [],
   "opmerking" : "",
   "beschrijving" : "beschrijving.md",
   "documenten" : [],
