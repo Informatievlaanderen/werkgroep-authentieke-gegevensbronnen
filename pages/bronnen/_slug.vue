@@ -73,26 +73,6 @@
           </vl-column>
 
           <vl-column width="6">
-            <vl-spotlight title="Contactpersoon">
-              <div v-if="data.contactpersoon.length > 0">
-                <div
-                  v-for="contact in data.contactpersoon"
-                  :key="contact.email"
-                >
-                  <p v-if="contact.email">
-                    {{ contact.naam }} —
-                    <a :href="'mailto:' + contact.email">
-                      {{ contact.email }}
-                    </a>
-                  </p>
-                  <p v-else>{{ contact.naam }} — E-mailadres ongekend</p>
-                </div>
-              </div>
-              <div v-else>Contactgegevens niet bekend</div>
-            </vl-spotlight>
-          </vl-column>
-
-          <vl-column width="6">
             <vl-spotlight title="Links gerelateerd aan bron">
               <div v-if="data.links.length > 0">
                 <vl-link-list>
@@ -104,14 +84,6 @@
                 </vl-link-list>
               </div>
               <div v-else>Geen links gevonden</div>
-            </vl-spotlight>
-          </vl-column>
-          <vl-column width="6">
-            <vl-spotlight title="Opmerkingen">
-              <div v-if="data.opmerking">
-                <p>{{ data.opmerking }}</p>
-              </div>
-              <div v-else>Geen opmerkingen voor deze bron</div>
             </vl-spotlight>
           </vl-column>
         </vl-grid>
