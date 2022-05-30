@@ -14,7 +14,7 @@
         prefix="Digitaal"
         title="Vlaanderen"
         logo="true"
-        href="http://www.google.be"
+        href="https://www.vlaanderen.be/digitaal-vlaanderen"
         mod-small
       />
     </div>
