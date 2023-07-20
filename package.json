@@ -36,7 +36,7 @@
     "@govflanders/vl-ui-toggle": "^5.0.0",
     "@govflanders/vl-ui-typography": "^4.0.0",
     "@govflanders/vl-ui-util": "^4.0.0",
-    "@govflanders/vl-ui-vue-components": "^5.0.0",
+    "@govflanders/vl-ui-vue-components": "^19.1.4",
     "@nuxt/content": "^1.14.0",
     "core-js": "^3.15.1",
     "fibers": "^5.0.0",
