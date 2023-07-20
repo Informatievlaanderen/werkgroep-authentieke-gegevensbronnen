@@ -31,7 +31,7 @@
     "@govflanders/vl-ui-introduction": "^5.0.1",
     "@govflanders/vl-ui-link": "^5.0.0",
     "@govflanders/vl-ui-link-list": "^10.0.1",
-    "@govflanders/vl-ui-spotlight": "^5.0.1",
+    "@govflanders/vl-ui-spotlight": "^18.1.4",
     "@govflanders/vl-ui-titles": "^18.1.4",
     "@govflanders/vl-ui-toggle": "^18.1.4",
     "@govflanders/vl-ui-typography": "^18.1.4",
