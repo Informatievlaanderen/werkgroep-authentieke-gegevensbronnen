@@ -29,7 +29,7 @@
     "@govflanders/vl-ui-infotext": "^5.0.0",
     "@govflanders/vl-ui-input-field": "^10.0.1",
     "@govflanders/vl-ui-introduction": "^5.0.1",
-    "@govflanders/vl-ui-link": "^5.0.0",
+    "@govflanders/vl-ui-link": "^18.1.4",
     "@govflanders/vl-ui-link-list": "^18.1.4",
     "@govflanders/vl-ui-spotlight": "^18.1.4",
     "@govflanders/vl-ui-titles": "^18.1.4",
