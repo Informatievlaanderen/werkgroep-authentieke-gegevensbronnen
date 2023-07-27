@@ -15,22 +15,18 @@
     "lint": "npm run lint:js"
   },
   "dependencies": {
-    "@govflanders/vl-ui-design-system-style": "^1.0.0-alpha.1",
+    "@govflanders/vl-ui-design-system-style": "^1.0.0-alpha.3",
     "@govflanders/vl-ui-design-system-vue3": "^1.0.0-alpha.3",
     "@nuxt/content": "^2.7.2",
     "@nuxt/webpack-builder": "^3.6.5",
     "core-js": "^3.15.1",
     "eslint": "^8.45.0",
-    "fibers": "^5.0.0",
-    "hookable": "^5.5.3",
     "lodash": "^4.17.21",
-    "node-sass": "^9.0.0",
+    "node-sass": "^7.0.3",
     "prettier": "^3.0.0",
     "sass": "^1.64.1",
     "sass-loader": "^13.3.2",
-    "typescript": "^5.1.6",
-    "vue": "^3.3.4",
-    "vue-router": "^4.2.4"
+    "typescript": "^5.1.6"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.22.9",
