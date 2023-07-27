@@ -24,7 +24,7 @@
     "fibers": "^5.0.0",
     "hookable": "^5.5.3",
     "lodash": "^4.17.21",
-    "node-sass": "^7.0.3",
+    "node-sass": "^9.0.0",
     "prettier": "^3.0.0",
     "sass": "^1.64.1",
     "sass-loader": "^13.3.2",
