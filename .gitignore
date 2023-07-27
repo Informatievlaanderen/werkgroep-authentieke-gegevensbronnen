@@ -89,3 +89,6 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Generated folder of static website
+.output/

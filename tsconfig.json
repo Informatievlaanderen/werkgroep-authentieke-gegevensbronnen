@@ -24,7 +24,9 @@
       ]
     },
     "types": [
+      "node",
       "@nuxt/types",
+      "@nuxt/typescript-build",
       "@nuxt/content",
       "@types/node"
     ]

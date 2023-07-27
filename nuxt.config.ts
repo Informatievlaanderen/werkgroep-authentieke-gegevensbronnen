@@ -1,4 +1,6 @@
-export default {
+import type { NuxtConfig } from '@nuxt/types'
+
+const config: NuxtConfig = {
   target: 'static',
   head: {
     title: 'AGB Register',
@@ -38,13 +40,10 @@ export default {
       },
     ],
   },
-
-  // Global CSS: https://go.nuxtjs.dev/config-css
+  // Global CSS: https://nuxt.com/docs/api/configuration/nuxt-config#css
   css: ['~/css/styles.scss'],
-
-  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: ['~/plugins/webcomponents.ts'],
-
+  // Plugins to run before rendering page: https://nuxt.com/docs/api/configuration/nuxt-config#plugins-1
+  plugins: [{ src: '~/plugins/webcomponents.js', mode: 'client' }],
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
 
@@ -62,12 +61,14 @@ export default {
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
-  
-  router: {
-    base: '/authentieke_gegevensbronnen/'
-  },
-  
+
+  // router: {
+  //   base: '/authentieke_gegevensbronnen/'
+  // },
+
   generate: {
-    fallback: true
-  }
+    fallback: true,
+  },
 }
+
+export default config
